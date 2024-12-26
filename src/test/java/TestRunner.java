@@ -13,14 +13,14 @@ import org.testng.annotations.DataProvider;
                 "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",
                 "pretty"
                         },
-        tags = "@hello"
+        tags = "@hello1"
 )
 
 
 public class TestRunner extends AbstractTestNGCucumberTests {
-    @Override
-    @DataProvider(parallel = true)
-    public Object[][] scenarios() {
-        return super.scenarios();
-    }
+//    @Override
+//    @DataProvider(parallel = true)
+//    public Object[][] scenarios() {
+//        return super.scenarios();
+//    }
 }

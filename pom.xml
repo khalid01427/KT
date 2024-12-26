@@ -56,13 +56,13 @@
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-surefire-plugin</artifactId>
                 <version>${maven.surefire.plugin.version}</version>
-                <configuration>
-                    <suiteXmlFiles>
-                        <suiteXmlFile>testng1.xml</suiteXmlFile>
-                    </suiteXmlFiles>
-                    <parallel>methods</parallel>
-                    <threadCount>2</threadCount>
-                </configuration>
+<!--                <configuration>-->
+<!--                    <suiteXmlFiles>-->
+<!--                        <suiteXmlFile>testng1.xml</suiteXmlFile>-->
+<!--                    </suiteXmlFiles>-->
+<!--                    <parallel>methods</parallel>-->
+<!--                    <threadCount>2</threadCount>-->
+<!--                </configuration>-->
             </plugin>
         </plugins>
     </build>

@@ -7,3 +7,1076 @@ WARN    2024-12-18 16:52:30,510 [main] TestAny  - this is a warning log message
 DEBUG   2024-12-18 17:55:50,366 [main] TestAny  - this is a debug log message
 INFO    2024-12-18 17:55:50,367 [main] TestAny  - this is a information log message
 WARN    2024-12-18 17:55:50,367 [main] TestAny  - this is a warning log message
+DEBUG   2024-12-26 21:32:27,795 [main] freemarker.cache  - Couldn't find template in cache for "spark/spark.spa.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG   2024-12-26 21:32:27,805 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/spark.spa_en_GB.ftl"): Not found
+DEBUG   2024-12-26 21:32:27,811 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+DEBUG   2024-12-26 21:32:27,813 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+DEBUG   2024-12-26 21:32:27,813 [main] freemarker.cache  - Loading template for "spark/spark.spa.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/md.1.Anwar/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+DEBUG   2024-12-26 21:32:27,969 [main] freemarker.cache  - Couldn't find template in cache for "commons/commons-variables.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG   2024-12-26 21:32:27,970 [main] freemarker.cache  - TemplateLoader.findTemplateSource("commons/commons-variables_en_GB.ftl"): Not found
+DEBUG   2024-12-26 21:32:27,971 [main] freemarker.cache  - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+DEBUG   2024-12-26 21:32:27,973 [main] freemarker.cache  - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+DEBUG   2024-12-26 21:32:27,973 [main] freemarker.cache  - Loading template for "commons/commons-variables.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/md.1.Anwar/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+DEBUG   2024-12-26 21:32:28,186 [main] freemarker.cache  - Couldn't find template in cache for "commons/commons-macros.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG   2024-12-26 21:32:28,186 [main] freemarker.cache  - TemplateLoader.findTemplateSource("commons/commons-macros_en_GB.ftl"): Not found
+DEBUG   2024-12-26 21:32:28,187 [main] freemarker.cache  - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+DEBUG   2024-12-26 21:32:28,188 [main] freemarker.cache  - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+DEBUG   2024-12-26 21:32:28,188 [main] freemarker.cache  - Loading template for "commons/commons-macros.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/md.1.Anwar/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+DEBUG   2024-12-26 21:32:28,207 [main] freemarker.cache  - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG   2024-12-26 21:32:28,208 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/macros/attributes_en_GB.ftl"): Not found
+DEBUG   2024-12-26 21:32:28,209 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+DEBUG   2024-12-26 21:32:28,210 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+DEBUG   2024-12-26 21:32:28,210 [main] freemarker.cache  - Loading template for "spark/macros/attributes.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/md.1.Anwar/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+DEBUG   2024-12-26 21:32:28,213 [main] freemarker.cache  - Couldn't find template in cache for "spark/macros/log.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG   2024-12-26 21:32:28,214 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/macros/log_en_GB.ftl"): Not found
+DEBUG   2024-12-26 21:32:28,215 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+DEBUG   2024-12-26 21:32:28,216 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+DEBUG   2024-12-26 21:32:28,216 [main] freemarker.cache  - Loading template for "spark/macros/log.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/md.1.Anwar/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+DEBUG   2024-12-26 21:32:28,220 [main] freemarker.cache  - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG   2024-12-26 21:32:28,221 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_GB.ftl"): Not found
+DEBUG   2024-12-26 21:32:28,222 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+DEBUG   2024-12-26 21:32:28,224 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+DEBUG   2024-12-26 21:32:28,224 [main] freemarker.cache  - Loading template for "spark/macros/recurse_nodes.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/md.1.Anwar/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+DEBUG   2024-12-26 21:32:28,231 [main] freemarker.cache  - "spark/macros/log.ftl"("en_GB", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG   2024-12-26 21:32:28,231 [main] freemarker.cache  - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG   2024-12-26 21:32:28,232 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_GB.ftl"): Not found
+DEBUG   2024-12-26 21:32:28,232 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+DEBUG   2024-12-26 21:32:28,233 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+DEBUG   2024-12-26 21:32:28,233 [main] freemarker.cache  - Loading template for "spark/macros/attr-common.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/md.1.Anwar/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+DEBUG   2024-12-26 21:32:28,248 [main] freemarker.cache  - Couldn't find template in cache for "spark/partials/head.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG   2024-12-26 21:32:28,249 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/partials/head_en_GB.ftl"): Not found
+DEBUG   2024-12-26 21:32:28,250 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+DEBUG   2024-12-26 21:32:28,250 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+DEBUG   2024-12-26 21:32:28,250 [main] freemarker.cache  - Loading template for "spark/partials/head.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/md.1.Anwar/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+DEBUG   2024-12-26 21:32:28,256 [main] freemarker.cache  - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG   2024-12-26 21:32:28,257 [main] freemarker.cache  - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_GB.ftl"): Not found
+DEBUG   2024-12-26 21:32:28,258 [main] freemarker.cache  - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+DEBUG   2024-12-26 21:32:28,259 [main] freemarker.cache  - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+DEBUG   2024-12-26 21:32:28,259 [main] freemarker.cache  - Loading template for "commons/commons-inject-css.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/md.1.Anwar/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+DEBUG   2024-12-26 21:32:28,261 [main] freemarker.cache  - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG   2024-12-26 21:32:28,261 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/partials/navbar_en_GB.ftl"): Not found
+DEBUG   2024-12-26 21:32:28,262 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+DEBUG   2024-12-26 21:32:28,264 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+DEBUG   2024-12-26 21:32:28,264 [main] freemarker.cache  - Loading template for "spark/partials/navbar.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/md.1.Anwar/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+DEBUG   2024-12-26 21:32:28,277 [main] freemarker.cache  - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG   2024-12-26 21:32:28,278 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_GB.ftl"): Not found
+DEBUG   2024-12-26 21:32:28,278 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+DEBUG   2024-12-26 21:32:28,278 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+DEBUG   2024-12-26 21:32:28,280 [main] freemarker.cache  - Loading template for "spark/partials/sidenav.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/md.1.Anwar/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+DEBUG   2024-12-26 21:32:28,304 [main] freemarker.cache  - Couldn't find template in cache for "spark/partials/test.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG   2024-12-26 21:32:28,305 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/partials/test_en_GB.ftl"): Not found
+DEBUG   2024-12-26 21:32:28,306 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+DEBUG   2024-12-26 21:32:28,306 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+DEBUG   2024-12-26 21:32:28,307 [main] freemarker.cache  - Loading template for "spark/partials/test.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/md.1.Anwar/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+DEBUG   2024-12-26 21:32:28,357 [main] freemarker.cache  - Couldn't find template in cache for "spark/partials/bdd-content.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG   2024-12-26 21:32:28,363 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/partials/bdd-content_en_GB.ftl"): Not found
+DEBUG   2024-12-26 21:32:28,364 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/partials/bdd-content_en.ftl"): Not found
+DEBUG   2024-12-26 21:32:28,365 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/partials/bdd-content.ftl"): Found
+DEBUG   2024-12-26 21:32:28,365 [main] freemarker.cache  - Loading template for "spark/partials/bdd-content.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/md.1.Anwar/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/bdd-content.ftl"
+DEBUG   2024-12-26 21:32:28,398 [main] freemarker.cache  - Couldn't find template in cache for "spark/partials/exception.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG   2024-12-26 21:32:28,399 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/partials/exception_en_GB.ftl"): Not found
+DEBUG   2024-12-26 21:32:28,400 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+DEBUG   2024-12-26 21:32:28,401 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+DEBUG   2024-12-26 21:32:28,401 [main] freemarker.cache  - Loading template for "spark/partials/exception.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/md.1.Anwar/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+DEBUG   2024-12-26 21:32:28,403 [main] freemarker.cache  - Couldn't find template in cache for "spark/partials/category.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG   2024-12-26 21:32:28,404 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/partials/category_en_GB.ftl"): Not found
+DEBUG   2024-12-26 21:32:28,405 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+DEBUG   2024-12-26 21:32:28,406 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+DEBUG   2024-12-26 21:32:28,406 [main] freemarker.cache  - Loading template for "spark/partials/category.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/md.1.Anwar/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+DEBUG   2024-12-26 21:32:28,411 [main] freemarker.cache  - Couldn't find template in cache for "spark/partials/device.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG   2024-12-26 21:32:28,412 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/partials/device_en_GB.ftl"): Not found
+DEBUG   2024-12-26 21:32:28,414 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+DEBUG   2024-12-26 21:32:28,414 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+DEBUG   2024-12-26 21:32:28,414 [main] freemarker.cache  - Loading template for "spark/partials/device.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/md.1.Anwar/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+DEBUG   2024-12-26 21:32:28,417 [main] freemarker.cache  - Couldn't find template in cache for "spark/partials/author.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG   2024-12-26 21:32:28,418 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/partials/author_en_GB.ftl"): Not found
+DEBUG   2024-12-26 21:32:28,419 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+DEBUG   2024-12-26 21:32:28,420 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+DEBUG   2024-12-26 21:32:28,420 [main] freemarker.cache  - Loading template for "spark/partials/author.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/md.1.Anwar/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+DEBUG   2024-12-26 21:32:28,421 [main] freemarker.cache  - Couldn't find template in cache for "spark/partials/log.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG   2024-12-26 21:32:28,422 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/partials/log_en_GB.ftl"): Not found
+DEBUG   2024-12-26 21:32:28,423 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+DEBUG   2024-12-26 21:32:28,424 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+DEBUG   2024-12-26 21:32:28,425 [main] freemarker.cache  - Loading template for "spark/partials/log.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/md.1.Anwar/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+DEBUG   2024-12-26 21:32:28,427 [main] freemarker.cache  - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG   2024-12-26 21:32:28,428 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_GB.ftl"): Not found
+DEBUG   2024-12-26 21:32:28,428 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+DEBUG   2024-12-26 21:32:28,429 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+DEBUG   2024-12-26 21:32:28,429 [main] freemarker.cache  - Loading template for "spark/partials/dashboard.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/md.1.Anwar/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+DEBUG   2024-12-26 21:32:28,494 [main] freemarker.cache  - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG   2024-12-26 21:32:28,495 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/partials/scripts_en_GB.ftl"): Not found
+DEBUG   2024-12-26 21:32:28,496 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+DEBUG   2024-12-26 21:32:28,497 [main] freemarker.cache  - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+DEBUG   2024-12-26 21:32:28,497 [main] freemarker.cache  - Loading template for "spark/partials/scripts.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/md.1.Anwar/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+DEBUG   2024-12-26 21:32:28,500 [main] freemarker.cache  - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG   2024-12-26 21:32:28,501 [main] freemarker.cache  - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_GB.ftl"): Not found
+DEBUG   2024-12-26 21:32:28,502 [main] freemarker.cache  - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+DEBUG   2024-12-26 21:32:28,502 [main] freemarker.cache  - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+DEBUG   2024-12-26 21:32:28,503 [main] freemarker.cache  - Loading template for "commons/commons-inject-js.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/md.1.Anwar/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
+DEBUG   2024-12-26 21:32:29,048 [main] org.apache.fontbox.ttf.GlyphSubstitutionTable  - Type 4 GSUB lookup table is not supported and will be ignored
+DEBUG   2024-12-26 21:32:29,048 [main] org.apache.fontbox.ttf.GlyphSubstitutionTable  - Type 4 GSUB lookup table is not supported and will be ignored
+DEBUG   2024-12-26 21:32:29,049 [main] org.apache.fontbox.ttf.GlyphSubstitutionTable  - Type 6 GSUB lookup table is not supported and will be ignored
+DEBUG   2024-12-26 21:32:29,049 [main] org.apache.fontbox.ttf.GlyphSubstitutionTable  - Type 4 GSUB lookup table is not supported and will be ignored
+DEBUG   2024-12-26 21:32:29,049 [main] org.apache.fontbox.ttf.GlyphSubstitutionTable  - Type 4 GSUB lookup table is not supported and will be ignored
+DEBUG   2024-12-26 21:32:29,127 [main] org.apache.fontbox.ttf.GlyphSubstitutionTable  - Type 4 GSUB lookup table is not supported and will be ignored
+DEBUG   2024-12-26 21:32:29,127 [main] org.apache.fontbox.ttf.GlyphSubstitutionTable  - Type 4 GSUB lookup table is not supported and will be ignored
+DEBUG   2024-12-26 21:32:29,127 [main] org.apache.fontbox.ttf.GlyphSubstitutionTable  - Type 6 GSUB lookup table is not supported and will be ignored
+DEBUG   2024-12-26 21:32:29,127 [main] org.apache.fontbox.ttf.GlyphSubstitutionTable  - Type 4 GSUB lookup table is not supported and will be ignored
+DEBUG   2024-12-26 21:32:29,127 [main] org.apache.fontbox.ttf.GlyphSubstitutionTable  - Type 4 GSUB lookup table is not supported and will be ignored
+DEBUG   2024-12-26 21:32:29,153 [main] org.apache.fontbox.ttf.GlyphSubstitutionTable  - Type 4 GSUB lookup table is not supported and will be ignored
+DEBUG   2024-12-26 21:32:29,153 [main] org.apache.fontbox.ttf.GlyphSubstitutionTable  - Type 4 GSUB lookup table is not supported and will be ignored
+DEBUG   2024-12-26 21:32:29,153 [main] org.apache.fontbox.ttf.GlyphSubstitutionTable  - Type 6 GSUB lookup table is not supported and will be ignored
+DEBUG   2024-12-26 21:32:29,153 [main] org.apache.fontbox.ttf.GlyphSubstitutionTable  - Type 4 GSUB lookup table is not supported and will be ignored
+DEBUG   2024-12-26 21:32:29,153 [main] org.apache.fontbox.ttf.GlyphSubstitutionTable  - Type 4 GSUB lookup table is not supported and will be ignored
+DEBUG   2024-12-26 21:32:29,173 [main] org.apache.fontbox.ttf.GlyphSubstitutionTable  - Type 4 GSUB lookup table is not supported and will be ignored
+DEBUG   2024-12-26 21:32:29,173 [main] org.apache.fontbox.ttf.GlyphSubstitutionTable  - Type 4 GSUB lookup table is not supported and will be ignored
+DEBUG   2024-12-26 21:32:29,174 [main] org.apache.fontbox.ttf.GlyphSubstitutionTable  - Type 6 GSUB lookup table is not supported and will be ignored
+DEBUG   2024-12-26 21:32:29,174 [main] org.apache.fontbox.ttf.GlyphSubstitutionTable  - Type 4 GSUB lookup table is not supported and will be ignored
+DEBUG   2024-12-26 21:32:29,174 [main] org.apache.fontbox.ttf.GlyphSubstitutionTable  - Type 4 GSUB lookup table is not supported and will be ignored
+DEBUG   2024-12-26 21:32:29,493 [main] org.apache.fontbox.ttf.GlyphSubstitutionTable  - Type 4 GSUB lookup table is not supported and will be ignored
+DEBUG   2024-12-26 21:32:29,493 [main] org.apache.fontbox.ttf.GlyphSubstitutionTable  - Type 4 GSUB lookup table is not supported and will be ignored
+DEBUG   2024-12-26 21:32:29,493 [main] org.apache.fontbox.ttf.GlyphSubstitutionTable  - Type 6 GSUB lookup table is not supported and will be ignored
+DEBUG   2024-12-26 21:32:29,493 [main] org.apache.fontbox.ttf.GlyphSubstitutionTable  - Type 4 GSUB lookup table is not supported and will be ignored
+DEBUG   2024-12-26 21:32:29,493 [main] org.apache.fontbox.ttf.GlyphSubstitutionTable  - Type 4 GSUB lookup table is not supported and will be ignored
+DEBUG   2024-12-26 21:32:29,642 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\8514fix.fon
+DEBUG   2024-12-26 21:32:29,643 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\8514fixe.fon
+DEBUG   2024-12-26 21:32:29,643 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\8514fixg.fon
+DEBUG   2024-12-26 21:32:29,643 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\8514fixr.fon
+DEBUG   2024-12-26 21:32:29,643 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\8514fixt.fon
+DEBUG   2024-12-26 21:32:29,643 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\8514oem.fon
+DEBUG   2024-12-26 21:32:29,644 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\8514oeme.fon
+DEBUG   2024-12-26 21:32:29,644 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\8514oemg.fon
+DEBUG   2024-12-26 21:32:29,644 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\8514oemr.fon
+DEBUG   2024-12-26 21:32:29,644 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\8514oemt.fon
+DEBUG   2024-12-26 21:32:29,644 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\8514sys.fon
+DEBUG   2024-12-26 21:32:29,645 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\8514syse.fon
+DEBUG   2024-12-26 21:32:29,645 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\8514sysg.fon
+DEBUG   2024-12-26 21:32:29,645 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\8514sysr.fon
+DEBUG   2024-12-26 21:32:29,646 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\8514syst.fon
+DEBUG   2024-12-26 21:32:29,646 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\85775.fon
+DEBUG   2024-12-26 21:32:29,647 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\85855.fon
+DEBUG   2024-12-26 21:32:29,647 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\85f1255.fon
+DEBUG   2024-12-26 21:32:29,647 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\85f1256.fon
+DEBUG   2024-12-26 21:32:29,647 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\85f1257.fon
+DEBUG   2024-12-26 21:32:29,648 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\85f874.fon
+DEBUG   2024-12-26 21:32:29,648 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\85s1255.fon
+DEBUG   2024-12-26 21:32:29,649 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\85s1256.fon
+DEBUG   2024-12-26 21:32:29,649 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\85s1257.fon
+DEBUG   2024-12-26 21:32:29,649 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\85s874.fon
+DEBUG   2024-12-26 21:32:29,649 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\AGENCYB.TTF
+DEBUG   2024-12-26 21:32:29,649 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\AGENCYB.TTF
+DEBUG   2024-12-26 21:32:29,649 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\AGENCYR.TTF
+DEBUG   2024-12-26 21:32:29,649 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\AGENCYR.TTF
+DEBUG   2024-12-26 21:32:29,649 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ALGER.TTF
+DEBUG   2024-12-26 21:32:29,649 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\ALGER.TTF
+DEBUG   2024-12-26 21:32:29,649 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\AnekLatin.ttf
+DEBUG   2024-12-26 21:32:29,649 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\AnekLatin.ttf
+DEBUG   2024-12-26 21:32:29,649 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ANTQUAB.TTF
+DEBUG   2024-12-26 21:32:29,649 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\ANTQUAB.TTF
+DEBUG   2024-12-26 21:32:29,649 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ANTQUABI.TTF
+DEBUG   2024-12-26 21:32:29,649 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\ANTQUABI.TTF
+DEBUG   2024-12-26 21:32:29,655 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ANTQUAI.TTF
+DEBUG   2024-12-26 21:32:29,655 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\ANTQUAI.TTF
+DEBUG   2024-12-26 21:32:29,656 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\app775.fon
+DEBUG   2024-12-26 21:32:29,656 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\app850.fon
+DEBUG   2024-12-26 21:32:29,656 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\app852.fon
+DEBUG   2024-12-26 21:32:29,657 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\app855.fon
+DEBUG   2024-12-26 21:32:29,658 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\app857.fon
+DEBUG   2024-12-26 21:32:29,658 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\app866.fon
+DEBUG   2024-12-26 21:32:29,659 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\app932.fon
+DEBUG   2024-12-26 21:32:29,659 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\app936.fon
+DEBUG   2024-12-26 21:32:29,660 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\app949.fon
+DEBUG   2024-12-26 21:32:29,660 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\app950.fon
+DEBUG   2024-12-26 21:32:29,660 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\arial.ttf
+DEBUG   2024-12-26 21:32:29,660 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\arial.ttf
+DEBUG   2024-12-26 21:32:29,661 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\arialbd.ttf
+DEBUG   2024-12-26 21:32:29,661 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\arialbd.ttf
+DEBUG   2024-12-26 21:32:29,661 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\arialbi.ttf
+DEBUG   2024-12-26 21:32:29,661 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\arialbi.ttf
+DEBUG   2024-12-26 21:32:29,662 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ariali.ttf
+DEBUG   2024-12-26 21:32:29,662 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\ariali.ttf
+DEBUG   2024-12-26 21:32:29,662 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ARIALN.TTF
+DEBUG   2024-12-26 21:32:29,662 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\ARIALN.TTF
+DEBUG   2024-12-26 21:32:29,663 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ARIALNB.TTF
+DEBUG   2024-12-26 21:32:29,663 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\ARIALNB.TTF
+DEBUG   2024-12-26 21:32:29,663 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ARIALNBI.TTF
+DEBUG   2024-12-26 21:32:29,664 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\ARIALNBI.TTF
+DEBUG   2024-12-26 21:32:29,664 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ARIALNI.TTF
+DEBUG   2024-12-26 21:32:29,664 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\ARIALNI.TTF
+DEBUG   2024-12-26 21:32:29,664 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ariblk.ttf
+DEBUG   2024-12-26 21:32:29,665 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\ariblk.ttf
+DEBUG   2024-12-26 21:32:29,665 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ARLRDBD.TTF
+DEBUG   2024-12-26 21:32:29,665 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\ARLRDBD.TTF
+DEBUG   2024-12-26 21:32:29,666 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\bahnschrift.ttf
+DEBUG   2024-12-26 21:32:29,666 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\bahnschrift.ttf
+DEBUG   2024-12-26 21:32:29,667 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\BASKVILL.TTF
+DEBUG   2024-12-26 21:32:29,667 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\BASKVILL.TTF
+DEBUG   2024-12-26 21:32:29,667 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\BAUHS93.TTF
+DEBUG   2024-12-26 21:32:29,667 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\BAUHS93.TTF
+DEBUG   2024-12-26 21:32:29,668 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\BELL.TTF
+DEBUG   2024-12-26 21:32:29,668 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\BELL.TTF
+DEBUG   2024-12-26 21:32:29,668 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\BELLB.TTF
+DEBUG   2024-12-26 21:32:29,668 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\BELLB.TTF
+DEBUG   2024-12-26 21:32:29,669 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\BELLI.TTF
+DEBUG   2024-12-26 21:32:29,669 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\BELLI.TTF
+DEBUG   2024-12-26 21:32:29,669 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\BERNHC.TTF
+DEBUG   2024-12-26 21:32:29,669 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\BERNHC.TTF
+DEBUG   2024-12-26 21:32:29,670 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\BKANT.TTF
+DEBUG   2024-12-26 21:32:29,670 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\BKANT.TTF
+DEBUG   2024-12-26 21:32:29,671 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\BOD_B.TTF
+DEBUG   2024-12-26 21:32:29,671 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\BOD_B.TTF
+DEBUG   2024-12-26 21:32:29,671 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\BOD_BI.TTF
+DEBUG   2024-12-26 21:32:29,671 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\BOD_BI.TTF
+DEBUG   2024-12-26 21:32:29,672 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\BOD_BLAI.TTF
+DEBUG   2024-12-26 21:32:29,672 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\BOD_BLAI.TTF
+DEBUG   2024-12-26 21:32:29,672 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\BOD_BLAR.TTF
+DEBUG   2024-12-26 21:32:29,672 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\BOD_BLAR.TTF
+DEBUG   2024-12-26 21:32:29,672 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\BOD_CB.TTF
+DEBUG   2024-12-26 21:32:29,673 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\BOD_CB.TTF
+DEBUG   2024-12-26 21:32:29,673 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\BOD_CBI.TTF
+DEBUG   2024-12-26 21:32:29,673 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\BOD_CBI.TTF
+DEBUG   2024-12-26 21:32:29,674 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\BOD_CI.TTF
+DEBUG   2024-12-26 21:32:29,674 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\BOD_CI.TTF
+DEBUG   2024-12-26 21:32:29,675 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\BOD_CR.TTF
+DEBUG   2024-12-26 21:32:29,675 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\BOD_CR.TTF
+DEBUG   2024-12-26 21:32:29,676 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\BOD_I.TTF
+DEBUG   2024-12-26 21:32:29,676 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\BOD_I.TTF
+DEBUG   2024-12-26 21:32:29,676 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\BOD_PSTC.TTF
+DEBUG   2024-12-26 21:32:29,677 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\BOD_PSTC.TTF
+DEBUG   2024-12-26 21:32:29,677 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\BOD_R.TTF
+DEBUG   2024-12-26 21:32:29,677 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\BOD_R.TTF
+DEBUG   2024-12-26 21:32:29,677 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\BOOKOS.TTF
+DEBUG   2024-12-26 21:32:29,677 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\BOOKOS.TTF
+DEBUG   2024-12-26 21:32:29,678 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\BOOKOSB.TTF
+DEBUG   2024-12-26 21:32:29,678 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\BOOKOSB.TTF
+DEBUG   2024-12-26 21:32:29,678 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\BOOKOSBI.TTF
+DEBUG   2024-12-26 21:32:29,678 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\BOOKOSBI.TTF
+DEBUG   2024-12-26 21:32:29,678 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\BOOKOSI.TTF
+DEBUG   2024-12-26 21:32:29,678 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\BOOKOSI.TTF
+DEBUG   2024-12-26 21:32:29,678 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\BRADHITC.TTF
+DEBUG   2024-12-26 21:32:29,678 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\BRADHITC.TTF
+DEBUG   2024-12-26 21:32:29,678 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\BRITANIC.TTF
+DEBUG   2024-12-26 21:32:29,678 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\BRITANIC.TTF
+DEBUG   2024-12-26 21:32:29,678 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\BRLNSB.TTF
+DEBUG   2024-12-26 21:32:29,678 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\BRLNSB.TTF
+DEBUG   2024-12-26 21:32:29,682 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\BRLNSDB.TTF
+DEBUG   2024-12-26 21:32:29,682 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\BRLNSDB.TTF
+DEBUG   2024-12-26 21:32:29,682 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\BRLNSR.TTF
+DEBUG   2024-12-26 21:32:29,682 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\BRLNSR.TTF
+DEBUG   2024-12-26 21:32:29,683 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\BROADW.TTF
+DEBUG   2024-12-26 21:32:29,683 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\BROADW.TTF
+DEBUG   2024-12-26 21:32:29,683 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\BRUSHSCI.TTF
+DEBUG   2024-12-26 21:32:29,683 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\BRUSHSCI.TTF
+DEBUG   2024-12-26 21:32:29,683 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\BSSYM7.TTF
+DEBUG   2024-12-26 21:32:29,683 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\BSSYM7.TTF
+DEBUG   2024-12-26 21:32:29,684 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\c8514fix.fon
+DEBUG   2024-12-26 21:32:29,684 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\c8514oem.fon
+DEBUG   2024-12-26 21:32:29,684 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\c8514sys.fon
+DEBUG   2024-12-26 21:32:29,684 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\calibri.ttf
+DEBUG   2024-12-26 21:32:29,684 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\calibri.ttf
+DEBUG   2024-12-26 21:32:29,685 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\calibrib.ttf
+DEBUG   2024-12-26 21:32:29,685 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\calibrib.ttf
+DEBUG   2024-12-26 21:32:29,685 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\calibrii.ttf
+DEBUG   2024-12-26 21:32:29,685 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\calibrii.ttf
+DEBUG   2024-12-26 21:32:29,685 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\calibril.ttf
+DEBUG   2024-12-26 21:32:29,685 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\calibril.ttf
+DEBUG   2024-12-26 21:32:29,685 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\calibrili.ttf
+DEBUG   2024-12-26 21:32:29,685 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\calibrili.ttf
+DEBUG   2024-12-26 21:32:29,685 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\calibriz.ttf
+DEBUG   2024-12-26 21:32:29,688 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\calibriz.ttf
+DEBUG   2024-12-26 21:32:29,688 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\CALIFB.TTF
+DEBUG   2024-12-26 21:32:29,688 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\CALIFB.TTF
+DEBUG   2024-12-26 21:32:29,689 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\CALIFI.TTF
+DEBUG   2024-12-26 21:32:29,689 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\CALIFI.TTF
+DEBUG   2024-12-26 21:32:29,689 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\CALIFR.TTF
+DEBUG   2024-12-26 21:32:29,689 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\CALIFR.TTF
+DEBUG   2024-12-26 21:32:29,690 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\CALIST.TTF
+DEBUG   2024-12-26 21:32:29,690 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\CALIST.TTF
+DEBUG   2024-12-26 21:32:29,690 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\CALISTB.TTF
+DEBUG   2024-12-26 21:32:29,690 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\CALISTB.TTF
+DEBUG   2024-12-26 21:32:29,691 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\CALISTBI.TTF
+DEBUG   2024-12-26 21:32:29,691 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\CALISTBI.TTF
+DEBUG   2024-12-26 21:32:29,691 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\CALISTI.TTF
+DEBUG   2024-12-26 21:32:29,691 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\CALISTI.TTF
+DEBUG   2024-12-26 21:32:29,691 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\cambria.ttc
+DEBUG   2024-12-26 21:32:29,691 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\cambria.ttc
+DEBUG   2024-12-26 21:32:29,692 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\cambriab.ttf
+DEBUG   2024-12-26 21:32:29,692 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\cambriab.ttf
+DEBUG   2024-12-26 21:32:29,692 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\cambriai.ttf
+DEBUG   2024-12-26 21:32:29,692 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\cambriai.ttf
+DEBUG   2024-12-26 21:32:29,692 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\cambriaz.ttf
+DEBUG   2024-12-26 21:32:29,692 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\cambriaz.ttf
+DEBUG   2024-12-26 21:32:29,692 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\Candara.ttf
+DEBUG   2024-12-26 21:32:29,692 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\Candara.ttf
+DEBUG   2024-12-26 21:32:29,694 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\Candarab.ttf
+DEBUG   2024-12-26 21:32:29,694 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\Candarab.ttf
+DEBUG   2024-12-26 21:32:29,694 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\Candarai.ttf
+DEBUG   2024-12-26 21:32:29,694 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\Candarai.ttf
+DEBUG   2024-12-26 21:32:29,695 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\Candaral.ttf
+DEBUG   2024-12-26 21:32:29,695 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\Candaral.ttf
+DEBUG   2024-12-26 21:32:29,695 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\Candarali.ttf
+DEBUG   2024-12-26 21:32:29,695 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\Candarali.ttf
+DEBUG   2024-12-26 21:32:29,695 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\Candaraz.ttf
+DEBUG   2024-12-26 21:32:29,695 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\Candaraz.ttf
+DEBUG   2024-12-26 21:32:29,695 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\CASTELAR.TTF
+DEBUG   2024-12-26 21:32:29,695 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\CASTELAR.TTF
+DEBUG   2024-12-26 21:32:29,695 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\CENSCBK.TTF
+DEBUG   2024-12-26 21:32:29,695 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\CENSCBK.TTF
+DEBUG   2024-12-26 21:32:29,697 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\CENTAUR.TTF
+DEBUG   2024-12-26 21:32:29,697 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\CENTAUR.TTF
+DEBUG   2024-12-26 21:32:29,697 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\CENTURY.TTF
+DEBUG   2024-12-26 21:32:29,697 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\CENTURY.TTF
+DEBUG   2024-12-26 21:32:29,698 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\cga40737.fon
+DEBUG   2024-12-26 21:32:29,698 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\cga40850.fon
+DEBUG   2024-12-26 21:32:29,699 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\cga40852.fon
+DEBUG   2024-12-26 21:32:29,699 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\cga40857.fon
+DEBUG   2024-12-26 21:32:29,699 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\cga40866.fon
+DEBUG   2024-12-26 21:32:29,699 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\cga40869.fon
+DEBUG   2024-12-26 21:32:29,699 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\cga40woa.fon
+DEBUG   2024-12-26 21:32:29,699 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\cga80737.fon
+DEBUG   2024-12-26 21:32:29,699 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\cga80850.fon
+DEBUG   2024-12-26 21:32:29,699 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\cga80852.fon
+DEBUG   2024-12-26 21:32:29,699 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\cga80857.fon
+DEBUG   2024-12-26 21:32:29,699 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\cga80866.fon
+DEBUG   2024-12-26 21:32:29,704 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\cga80869.fon
+DEBUG   2024-12-26 21:32:29,705 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\cga80woa.fon
+DEBUG   2024-12-26 21:32:29,705 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\CHILLER.TTF
+DEBUG   2024-12-26 21:32:29,705 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\CHILLER.TTF
+DEBUG   2024-12-26 21:32:29,706 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\COLONNA.TTF
+DEBUG   2024-12-26 21:32:29,706 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\COLONNA.TTF
+DEBUG   2024-12-26 21:32:29,706 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\comic.ttf
+DEBUG   2024-12-26 21:32:29,707 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\comic.ttf
+DEBUG   2024-12-26 21:32:29,708 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\comicbd.ttf
+DEBUG   2024-12-26 21:32:29,708 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\comicbd.ttf
+DEBUG   2024-12-26 21:32:29,708 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\comici.ttf
+DEBUG   2024-12-26 21:32:29,709 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\comici.ttf
+DEBUG   2024-12-26 21:32:29,710 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\comicz.ttf
+DEBUG   2024-12-26 21:32:29,710 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\comicz.ttf
+DEBUG   2024-12-26 21:32:29,710 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\consola.ttf
+DEBUG   2024-12-26 21:32:29,710 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\consola.ttf
+DEBUG   2024-12-26 21:32:29,711 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\consolab.ttf
+DEBUG   2024-12-26 21:32:29,711 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\consolab.ttf
+DEBUG   2024-12-26 21:32:29,712 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\consolai.ttf
+DEBUG   2024-12-26 21:32:29,712 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\consolai.ttf
+DEBUG   2024-12-26 21:32:29,713 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\consolaz.ttf
+DEBUG   2024-12-26 21:32:29,713 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\consolaz.ttf
+DEBUG   2024-12-26 21:32:29,714 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\constan.ttf
+DEBUG   2024-12-26 21:32:29,714 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\constan.ttf
+DEBUG   2024-12-26 21:32:29,714 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\constanb.ttf
+DEBUG   2024-12-26 21:32:29,714 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\constanb.ttf
+DEBUG   2024-12-26 21:32:29,715 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\constani.ttf
+DEBUG   2024-12-26 21:32:29,715 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\constani.ttf
+DEBUG   2024-12-26 21:32:29,715 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\constanz.ttf
+DEBUG   2024-12-26 21:32:29,716 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\constanz.ttf
+DEBUG   2024-12-26 21:32:29,716 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\COOPBL.TTF
+DEBUG   2024-12-26 21:32:29,716 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\COOPBL.TTF
+DEBUG   2024-12-26 21:32:29,717 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\COPRGTB.TTF
+DEBUG   2024-12-26 21:32:29,717 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\COPRGTB.TTF
+DEBUG   2024-12-26 21:32:29,718 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\COPRGTL.TTF
+DEBUG   2024-12-26 21:32:29,718 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\COPRGTL.TTF
+DEBUG   2024-12-26 21:32:29,718 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\corbel.ttf
+DEBUG   2024-12-26 21:32:29,718 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\corbel.ttf
+DEBUG   2024-12-26 21:32:29,719 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\corbelb.ttf
+DEBUG   2024-12-26 21:32:29,719 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\corbelb.ttf
+DEBUG   2024-12-26 21:32:29,719 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\corbeli.ttf
+DEBUG   2024-12-26 21:32:29,719 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\corbeli.ttf
+DEBUG   2024-12-26 21:32:29,720 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\corbell.ttf
+DEBUG   2024-12-26 21:32:29,720 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\corbell.ttf
+DEBUG   2024-12-26 21:32:29,720 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\corbelli.ttf
+DEBUG   2024-12-26 21:32:29,720 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\corbelli.ttf
+DEBUG   2024-12-26 21:32:29,721 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\corbelz.ttf
+DEBUG   2024-12-26 21:32:29,721 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\corbelz.ttf
+DEBUG   2024-12-26 21:32:29,722 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\coue1255.fon
+DEBUG   2024-12-26 21:32:29,722 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\coue1256.fon
+DEBUG   2024-12-26 21:32:29,722 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\coue1257.fon
+DEBUG   2024-12-26 21:32:29,722 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\couf1255.fon
+DEBUG   2024-12-26 21:32:29,723 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\couf1256.fon
+DEBUG   2024-12-26 21:32:29,723 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\couf1257.fon
+DEBUG   2024-12-26 21:32:29,723 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\cour.ttf
+DEBUG   2024-12-26 21:32:29,723 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\cour.ttf
+DEBUG   2024-12-26 21:32:29,724 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\courbd.ttf
+DEBUG   2024-12-26 21:32:29,724 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\courbd.ttf
+DEBUG   2024-12-26 21:32:29,724 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\courbi.ttf
+DEBUG   2024-12-26 21:32:29,724 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\courbi.ttf
+DEBUG   2024-12-26 21:32:29,725 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\coure.fon
+DEBUG   2024-12-26 21:32:29,725 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\couree.fon
+DEBUG   2024-12-26 21:32:29,725 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\coureg.fon
+DEBUG   2024-12-26 21:32:29,725 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\courer.fon
+DEBUG   2024-12-26 21:32:29,726 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\couret.fon
+DEBUG   2024-12-26 21:32:29,726 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\courf.fon
+DEBUG   2024-12-26 21:32:29,726 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\courfe.fon
+DEBUG   2024-12-26 21:32:29,727 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\courfg.fon
+DEBUG   2024-12-26 21:32:29,728 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\courfr.fon
+DEBUG   2024-12-26 21:32:29,728 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\courft.fon
+DEBUG   2024-12-26 21:32:29,728 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\couri.ttf
+DEBUG   2024-12-26 21:32:29,729 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\couri.ttf
+DEBUG   2024-12-26 21:32:29,729 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\CURLZ___.TTF
+DEBUG   2024-12-26 21:32:29,729 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\CURLZ___.TTF
+DEBUG   2024-12-26 21:32:29,729 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\cvgafix.fon
+DEBUG   2024-12-26 21:32:29,729 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\cvgasys.fon
+DEBUG   2024-12-26 21:32:29,730 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\desktop.ini
+DEBUG   2024-12-26 21:32:29,730 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\dos737.fon
+DEBUG   2024-12-26 21:32:29,731 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\dos869.fon
+DEBUG   2024-12-26 21:32:29,731 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\dosapp.fon
+DEBUG   2024-12-26 21:32:29,731 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ebrima.ttf
+DEBUG   2024-12-26 21:32:29,731 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\ebrima.ttf
+DEBUG   2024-12-26 21:32:29,732 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ebrimabd.ttf
+DEBUG   2024-12-26 21:32:29,732 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\ebrimabd.ttf
+DEBUG   2024-12-26 21:32:29,732 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ega40737.fon
+DEBUG   2024-12-26 21:32:29,732 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ega40850.fon
+DEBUG   2024-12-26 21:32:29,732 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ega40852.fon
+DEBUG   2024-12-26 21:32:29,733 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ega40857.fon
+DEBUG   2024-12-26 21:32:29,733 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ega40866.fon
+DEBUG   2024-12-26 21:32:29,734 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ega40869.fon
+DEBUG   2024-12-26 21:32:29,734 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ega40woa.fon
+DEBUG   2024-12-26 21:32:29,734 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ega80737.fon
+DEBUG   2024-12-26 21:32:29,735 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ega80850.fon
+DEBUG   2024-12-26 21:32:29,735 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ega80852.fon
+DEBUG   2024-12-26 21:32:29,735 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ega80857.fon
+DEBUG   2024-12-26 21:32:29,736 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ega80866.fon
+DEBUG   2024-12-26 21:32:29,736 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ega80869.fon
+DEBUG   2024-12-26 21:32:29,737 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ega80woa.fon
+DEBUG   2024-12-26 21:32:29,737 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ELEPHNT.TTF
+DEBUG   2024-12-26 21:32:29,737 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\ELEPHNT.TTF
+DEBUG   2024-12-26 21:32:29,737 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ELEPHNTI.TTF
+DEBUG   2024-12-26 21:32:29,737 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\ELEPHNTI.TTF
+DEBUG   2024-12-26 21:32:29,738 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ENGR.TTF
+DEBUG   2024-12-26 21:32:29,738 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\ENGR.TTF
+DEBUG   2024-12-26 21:32:29,738 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ERASBD.TTF
+DEBUG   2024-12-26 21:32:29,738 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\ERASBD.TTF
+DEBUG   2024-12-26 21:32:29,738 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ERASDEMI.TTF
+DEBUG   2024-12-26 21:32:29,738 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\ERASDEMI.TTF
+DEBUG   2024-12-26 21:32:29,739 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ERASLGHT.TTF
+DEBUG   2024-12-26 21:32:29,739 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\ERASLGHT.TTF
+DEBUG   2024-12-26 21:32:29,739 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ERASMD.TTF
+DEBUG   2024-12-26 21:32:29,740 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\ERASMD.TTF
+DEBUG   2024-12-26 21:32:29,740 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\FELIXTI.TTF
+DEBUG   2024-12-26 21:32:29,740 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\FELIXTI.TTF
+DEBUG   2024-12-26 21:32:29,740 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\fms_metadata.xml
+DEBUG   2024-12-26 21:32:29,741 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\FORTE.TTF
+DEBUG   2024-12-26 21:32:29,741 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\FORTE.TTF
+DEBUG   2024-12-26 21:32:29,741 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\FRABK.TTF
+DEBUG   2024-12-26 21:32:29,741 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\FRABK.TTF
+DEBUG   2024-12-26 21:32:29,742 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\FRABKIT.TTF
+DEBUG   2024-12-26 21:32:29,742 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\FRABKIT.TTF
+DEBUG   2024-12-26 21:32:29,742 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\FRADM.TTF
+DEBUG   2024-12-26 21:32:29,742 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\FRADM.TTF
+DEBUG   2024-12-26 21:32:29,743 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\FRADMCN.TTF
+DEBUG   2024-12-26 21:32:29,743 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\FRADMCN.TTF
+DEBUG   2024-12-26 21:32:29,743 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\FRADMIT.TTF
+DEBUG   2024-12-26 21:32:29,743 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\FRADMIT.TTF
+DEBUG   2024-12-26 21:32:29,744 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\FRAHV.TTF
+DEBUG   2024-12-26 21:32:29,744 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\FRAHV.TTF
+DEBUG   2024-12-26 21:32:29,745 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\FRAHVIT.TTF
+DEBUG   2024-12-26 21:32:29,745 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\FRAHVIT.TTF
+DEBUG   2024-12-26 21:32:29,745 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\framd.ttf
+DEBUG   2024-12-26 21:32:29,745 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\framd.ttf
+DEBUG   2024-12-26 21:32:29,746 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\FRAMDCN.TTF
+DEBUG   2024-12-26 21:32:29,746 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\FRAMDCN.TTF
+DEBUG   2024-12-26 21:32:29,746 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\framdit.ttf
+DEBUG   2024-12-26 21:32:29,746 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\framdit.ttf
+DEBUG   2024-12-26 21:32:29,747 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\FREESCPT.TTF
+DEBUG   2024-12-26 21:32:29,747 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\FREESCPT.TTF
+DEBUG   2024-12-26 21:32:29,747 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\FRSCRIPT.TTF
+DEBUG   2024-12-26 21:32:29,747 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\FRSCRIPT.TTF
+DEBUG   2024-12-26 21:32:29,748 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\FTLTLT.TTF
+DEBUG   2024-12-26 21:32:29,748 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\FTLTLT.TTF
+DEBUG   2024-12-26 21:32:29,748 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\Gabriola.ttf
+DEBUG   2024-12-26 21:32:29,748 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\Gabriola.ttf
+DEBUG   2024-12-26 21:32:29,749 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\gadugi.ttf
+DEBUG   2024-12-26 21:32:29,749 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\gadugi.ttf
+DEBUG   2024-12-26 21:32:29,749 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\gadugib.ttf
+DEBUG   2024-12-26 21:32:29,749 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\gadugib.ttf
+DEBUG   2024-12-26 21:32:29,750 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\GARA.TTF
+DEBUG   2024-12-26 21:32:29,750 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\GARA.TTF
+DEBUG   2024-12-26 21:32:29,750 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\GARABD.TTF
+DEBUG   2024-12-26 21:32:29,750 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\GARABD.TTF
+DEBUG   2024-12-26 21:32:29,752 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\GARAIT.TTF
+DEBUG   2024-12-26 21:32:29,752 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\GARAIT.TTF
+DEBUG   2024-12-26 21:32:29,752 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\georgia.ttf
+DEBUG   2024-12-26 21:32:29,752 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\georgia.ttf
+DEBUG   2024-12-26 21:32:29,753 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\georgiab.ttf
+DEBUG   2024-12-26 21:32:29,753 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\georgiab.ttf
+DEBUG   2024-12-26 21:32:29,753 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\georgiai.ttf
+DEBUG   2024-12-26 21:32:29,753 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\georgiai.ttf
+DEBUG   2024-12-26 21:32:29,753 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\georgiaz.ttf
+DEBUG   2024-12-26 21:32:29,753 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\georgiaz.ttf
+DEBUG   2024-12-26 21:32:29,754 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\GIGI.TTF
+DEBUG   2024-12-26 21:32:29,754 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\GIGI.TTF
+DEBUG   2024-12-26 21:32:29,754 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\GILBI___.TTF
+DEBUG   2024-12-26 21:32:29,754 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\GILBI___.TTF
+DEBUG   2024-12-26 21:32:29,755 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\GILB____.TTF
+DEBUG   2024-12-26 21:32:29,755 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\GILB____.TTF
+DEBUG   2024-12-26 21:32:29,755 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\GILC____.TTF
+DEBUG   2024-12-26 21:32:29,755 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\GILC____.TTF
+DEBUG   2024-12-26 21:32:29,755 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\GILI____.TTF
+DEBUG   2024-12-26 21:32:29,755 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\GILI____.TTF
+DEBUG   2024-12-26 21:32:29,755 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\GILLUBCD.TTF
+DEBUG   2024-12-26 21:32:29,756 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\GILLUBCD.TTF
+DEBUG   2024-12-26 21:32:29,756 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\GILSANUB.TTF
+DEBUG   2024-12-26 21:32:29,756 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\GILSANUB.TTF
+DEBUG   2024-12-26 21:32:29,756 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\GIL_____.TTF
+DEBUG   2024-12-26 21:32:29,756 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\GIL_____.TTF
+DEBUG   2024-12-26 21:32:29,757 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\GLECB.TTF
+DEBUG   2024-12-26 21:32:29,757 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\GLECB.TTF
+DEBUG   2024-12-26 21:32:29,757 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\GLSNECB.TTF
+DEBUG   2024-12-26 21:32:29,758 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\GLSNECB.TTF
+DEBUG   2024-12-26 21:32:29,758 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\GOTHIC.TTF
+DEBUG   2024-12-26 21:32:29,758 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\GOTHIC.TTF
+DEBUG   2024-12-26 21:32:29,758 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\GOTHICB.TTF
+DEBUG   2024-12-26 21:32:29,758 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\GOTHICB.TTF
+DEBUG   2024-12-26 21:32:29,759 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\GOTHICBI.TTF
+DEBUG   2024-12-26 21:32:29,759 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\GOTHICBI.TTF
+DEBUG   2024-12-26 21:32:29,759 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\GOTHICI.TTF
+DEBUG   2024-12-26 21:32:29,759 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\GOTHICI.TTF
+DEBUG   2024-12-26 21:32:29,759 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\GOUDOS.TTF
+DEBUG   2024-12-26 21:32:29,761 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\GOUDOS.TTF
+DEBUG   2024-12-26 21:32:29,761 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\GOUDOSB.TTF
+DEBUG   2024-12-26 21:32:29,761 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\GOUDOSB.TTF
+DEBUG   2024-12-26 21:32:29,762 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\GOUDOSI.TTF
+DEBUG   2024-12-26 21:32:29,762 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\GOUDOSI.TTF
+DEBUG   2024-12-26 21:32:29,762 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\GOUDYSTO.TTF
+DEBUG   2024-12-26 21:32:29,762 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\GOUDYSTO.TTF
+DEBUG   2024-12-26 21:32:29,762 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\h8514fix.fon
+DEBUG   2024-12-26 21:32:29,763 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\h8514oem.fon
+DEBUG   2024-12-26 21:32:29,763 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\h8514sys.fon
+DEBUG   2024-12-26 21:32:29,763 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\HARLOWSI.TTF
+DEBUG   2024-12-26 21:32:29,763 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\HARLOWSI.TTF
+DEBUG   2024-12-26 21:32:29,763 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\HARNGTON.TTF
+DEBUG   2024-12-26 21:32:29,763 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\HARNGTON.TTF
+DEBUG   2024-12-26 21:32:29,764 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\HATTEN.TTF
+DEBUG   2024-12-26 21:32:29,764 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\HATTEN.TTF
+DEBUG   2024-12-26 21:32:29,764 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\himalaya.ttf
+DEBUG   2024-12-26 21:32:29,764 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\himalaya.ttf
+DEBUG   2024-12-26 21:32:29,764 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\holomdl2.ttf
+DEBUG   2024-12-26 21:32:29,764 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\holomdl2.ttf
+DEBUG   2024-12-26 21:32:29,764 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\HTOWERT.TTF
+DEBUG   2024-12-26 21:32:29,765 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\HTOWERT.TTF
+DEBUG   2024-12-26 21:32:29,765 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\HTOWERTI.TTF
+DEBUG   2024-12-26 21:32:29,765 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\HTOWERTI.TTF
+DEBUG   2024-12-26 21:32:29,765 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\hvgafix.fon
+DEBUG   2024-12-26 21:32:29,765 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\hvgasys.fon
+DEBUG   2024-12-26 21:32:29,766 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\impact.ttf
+DEBUG   2024-12-26 21:32:29,766 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\impact.ttf
+DEBUG   2024-12-26 21:32:29,766 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\IMPRISHA.TTF
+DEBUG   2024-12-26 21:32:29,766 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\IMPRISHA.TTF
+DEBUG   2024-12-26 21:32:29,766 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\INFROMAN.TTF
+DEBUG   2024-12-26 21:32:29,766 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\INFROMAN.TTF
+DEBUG   2024-12-26 21:32:29,767 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\Inkfree.ttf
+DEBUG   2024-12-26 21:32:29,767 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\Inkfree.ttf
+DEBUG   2024-12-26 21:32:29,768 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ITCBLKAD.TTF
+DEBUG   2024-12-26 21:32:29,768 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\ITCBLKAD.TTF
+DEBUG   2024-12-26 21:32:29,768 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ITCEDSCR.TTF
+DEBUG   2024-12-26 21:32:29,768 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\ITCEDSCR.TTF
+DEBUG   2024-12-26 21:32:29,769 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ITCKRIST.TTF
+DEBUG   2024-12-26 21:32:29,769 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\ITCKRIST.TTF
+DEBUG   2024-12-26 21:32:29,769 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\j8514fix.fon
+DEBUG   2024-12-26 21:32:29,770 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\j8514oem.fon
+DEBUG   2024-12-26 21:32:29,770 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\j8514sys.fon
+DEBUG   2024-12-26 21:32:29,770 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\javatext.ttf
+DEBUG   2024-12-26 21:32:29,770 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\javatext.ttf
+DEBUG   2024-12-26 21:32:29,771 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\JOKERMAN.TTF
+DEBUG   2024-12-26 21:32:29,771 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\JOKERMAN.TTF
+DEBUG   2024-12-26 21:32:29,771 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\jsmalle.fon
+DEBUG   2024-12-26 21:32:29,773 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\jsmallf.fon
+DEBUG   2024-12-26 21:32:29,773 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\JUICE___.TTF
+DEBUG   2024-12-26 21:32:29,773 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\JUICE___.TTF
+DEBUG   2024-12-26 21:32:29,773 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\jvgafix.fon
+DEBUG   2024-12-26 21:32:29,773 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\jvgasys.fon
+DEBUG   2024-12-26 21:32:29,773 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\KUNSTLER.TTF
+DEBUG   2024-12-26 21:32:29,773 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\KUNSTLER.TTF
+DEBUG   2024-12-26 21:32:29,774 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\LATINWD.TTF
+DEBUG   2024-12-26 21:32:29,774 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\LATINWD.TTF
+DEBUG   2024-12-26 21:32:29,774 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\LBRITE.TTF
+DEBUG   2024-12-26 21:32:29,775 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\LBRITE.TTF
+DEBUG   2024-12-26 21:32:29,775 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\LBRITED.TTF
+DEBUG   2024-12-26 21:32:29,775 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\LBRITED.TTF
+DEBUG   2024-12-26 21:32:29,775 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\LBRITEDI.TTF
+DEBUG   2024-12-26 21:32:29,775 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\LBRITEDI.TTF
+DEBUG   2024-12-26 21:32:29,776 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\LBRITEI.TTF
+DEBUG   2024-12-26 21:32:29,776 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\LBRITEI.TTF
+DEBUG   2024-12-26 21:32:29,776 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\LCALLIG.TTF
+DEBUG   2024-12-26 21:32:29,776 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\LCALLIG.TTF
+DEBUG   2024-12-26 21:32:29,776 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\LeelaUIb.ttf
+DEBUG   2024-12-26 21:32:29,776 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\LeelaUIb.ttf
+DEBUG   2024-12-26 21:32:29,777 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\LEELAWAD.TTF
+DEBUG   2024-12-26 21:32:29,777 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\LEELAWAD.TTF
+DEBUG   2024-12-26 21:32:29,777 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\LEELAWDB.TTF
+DEBUG   2024-12-26 21:32:29,777 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\LEELAWDB.TTF
+DEBUG   2024-12-26 21:32:29,778 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\LeelawUI.ttf
+DEBUG   2024-12-26 21:32:29,778 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\LeelawUI.ttf
+DEBUG   2024-12-26 21:32:29,778 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\LeelUIsl.ttf
+DEBUG   2024-12-26 21:32:29,778 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\LeelUIsl.ttf
+DEBUG   2024-12-26 21:32:29,778 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\LFAX.TTF
+DEBUG   2024-12-26 21:32:29,779 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\LFAX.TTF
+DEBUG   2024-12-26 21:32:29,779 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\LFAXD.TTF
+DEBUG   2024-12-26 21:32:29,779 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\LFAXD.TTF
+DEBUG   2024-12-26 21:32:29,779 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\LFAXDI.TTF
+DEBUG   2024-12-26 21:32:29,779 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\LFAXDI.TTF
+DEBUG   2024-12-26 21:32:29,780 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\LFAXI.TTF
+DEBUG   2024-12-26 21:32:29,780 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\LFAXI.TTF
+DEBUG   2024-12-26 21:32:29,780 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\LHANDW.TTF
+DEBUG   2024-12-26 21:32:29,780 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\LHANDW.TTF
+DEBUG   2024-12-26 21:32:29,780 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\LSANS.TTF
+DEBUG   2024-12-26 21:32:29,781 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\LSANS.TTF
+DEBUG   2024-12-26 21:32:29,781 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\LSANSD.TTF
+DEBUG   2024-12-26 21:32:29,781 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\LSANSD.TTF
+DEBUG   2024-12-26 21:32:29,781 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\LSANSDI.TTF
+DEBUG   2024-12-26 21:32:29,781 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\LSANSDI.TTF
+DEBUG   2024-12-26 21:32:29,782 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\LSANSI.TTF
+DEBUG   2024-12-26 21:32:29,782 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\LSANSI.TTF
+DEBUG   2024-12-26 21:32:29,782 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\LTYPE.TTF
+DEBUG   2024-12-26 21:32:29,782 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\LTYPE.TTF
+DEBUG   2024-12-26 21:32:29,782 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\LTYPEB.TTF
+DEBUG   2024-12-26 21:32:29,782 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\LTYPEB.TTF
+DEBUG   2024-12-26 21:32:29,783 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\LTYPEBO.TTF
+DEBUG   2024-12-26 21:32:29,783 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\LTYPEBO.TTF
+DEBUG   2024-12-26 21:32:29,784 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\LTYPEO.TTF
+DEBUG   2024-12-26 21:32:29,784 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\LTYPEO.TTF
+DEBUG   2024-12-26 21:32:29,784 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\lucon.ttf
+DEBUG   2024-12-26 21:32:29,784 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\lucon.ttf
+DEBUG   2024-12-26 21:32:29,784 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\l_10646.ttf
+DEBUG   2024-12-26 21:32:29,784 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\l_10646.ttf
+DEBUG   2024-12-26 21:32:29,785 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\MAGNETOB.TTF
+DEBUG   2024-12-26 21:32:29,785 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\MAGNETOB.TTF
+DEBUG   2024-12-26 21:32:29,785 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\MAIAN.TTF
+DEBUG   2024-12-26 21:32:29,785 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\MAIAN.TTF
+DEBUG   2024-12-26 21:32:29,786 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\malgun.ttf
+DEBUG   2024-12-26 21:32:29,786 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\malgun.ttf
+DEBUG   2024-12-26 21:32:29,786 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\malgunbd.ttf
+DEBUG   2024-12-26 21:32:29,786 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\malgunbd.ttf
+DEBUG   2024-12-26 21:32:29,786 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\malgunsl.ttf
+DEBUG   2024-12-26 21:32:29,786 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\malgunsl.ttf
+DEBUG   2024-12-26 21:32:29,787 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\marlett.ttf
+DEBUG   2024-12-26 21:32:29,788 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\marlett.ttf
+DEBUG   2024-12-26 21:32:29,788 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\MATURASC.TTF
+DEBUG   2024-12-26 21:32:29,788 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\MATURASC.TTF
+DEBUG   2024-12-26 21:32:29,788 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\micross.ttf
+DEBUG   2024-12-26 21:32:29,788 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\micross.ttf
+DEBUG   2024-12-26 21:32:29,788 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\mingliub.ttc
+DEBUG   2024-12-26 21:32:29,788 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\mingliub.ttc
+DEBUG   2024-12-26 21:32:29,788 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\MISTRAL.TTF
+DEBUG   2024-12-26 21:32:29,788 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\MISTRAL.TTF
+DEBUG   2024-12-26 21:32:29,788 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\mmrtext.ttf
+DEBUG   2024-12-26 21:32:29,789 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\mmrtext.ttf
+DEBUG   2024-12-26 21:32:29,789 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\mmrtextb.ttf
+DEBUG   2024-12-26 21:32:29,789 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\mmrtextb.ttf
+DEBUG   2024-12-26 21:32:29,789 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\MOD20.TTF
+DEBUG   2024-12-26 21:32:29,789 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\MOD20.TTF
+DEBUG   2024-12-26 21:32:29,790 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\modern.fon
+DEBUG   2024-12-26 21:32:29,790 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\monbaiti.ttf
+DEBUG   2024-12-26 21:32:29,790 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\monbaiti.ttf
+DEBUG   2024-12-26 21:32:29,790 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\msgothic.ttc
+DEBUG   2024-12-26 21:32:29,790 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\msgothic.ttc
+DEBUG   2024-12-26 21:32:29,790 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\msjh.ttc
+DEBUG   2024-12-26 21:32:29,791 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\msjh.ttc
+DEBUG   2024-12-26 21:32:29,791 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\msjhbd.ttc
+DEBUG   2024-12-26 21:32:29,791 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\msjhbd.ttc
+DEBUG   2024-12-26 21:32:29,791 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\msjhl.ttc
+DEBUG   2024-12-26 21:32:29,791 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\msjhl.ttc
+DEBUG   2024-12-26 21:32:29,792 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\MSUIGHUB.TTF
+DEBUG   2024-12-26 21:32:29,792 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\MSUIGHUB.TTF
+DEBUG   2024-12-26 21:32:29,792 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\MSUIGHUR.TTF
+DEBUG   2024-12-26 21:32:29,792 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\MSUIGHUR.TTF
+DEBUG   2024-12-26 21:32:29,793 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\msyh.ttc
+DEBUG   2024-12-26 21:32:29,793 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\msyh.ttc
+DEBUG   2024-12-26 21:32:29,793 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\msyhbd.ttc
+DEBUG   2024-12-26 21:32:29,793 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\msyhbd.ttc
+DEBUG   2024-12-26 21:32:29,793 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\msyhl.ttc
+DEBUG   2024-12-26 21:32:29,793 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\msyhl.ttc
+DEBUG   2024-12-26 21:32:29,794 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\msyi.ttf
+DEBUG   2024-12-26 21:32:29,794 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\msyi.ttf
+DEBUG   2024-12-26 21:32:29,794 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\MTCORSVA.TTF
+DEBUG   2024-12-26 21:32:29,794 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\MTCORSVA.TTF
+DEBUG   2024-12-26 21:32:29,794 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\MTEXTRA.TTF
+DEBUG   2024-12-26 21:32:29,794 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\MTEXTRA.TTF
+DEBUG   2024-12-26 21:32:29,795 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\mvboli.ttf
+DEBUG   2024-12-26 21:32:29,795 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\mvboli.ttf
+DEBUG   2024-12-26 21:32:29,795 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\NIAGENG.TTF
+DEBUG   2024-12-26 21:32:29,795 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\NIAGENG.TTF
+DEBUG   2024-12-26 21:32:29,795 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\NIAGSOL.TTF
+DEBUG   2024-12-26 21:32:29,795 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\NIAGSOL.TTF
+DEBUG   2024-12-26 21:32:29,796 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\Nirmala.ttf
+DEBUG   2024-12-26 21:32:29,796 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\Nirmala.ttf
+DEBUG   2024-12-26 21:32:29,796 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\NirmalaB.ttf
+DEBUG   2024-12-26 21:32:29,796 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\NirmalaB.ttf
+DEBUG   2024-12-26 21:32:29,796 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\NirmalaS.ttf
+DEBUG   2024-12-26 21:32:29,796 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\NirmalaS.ttf
+DEBUG   2024-12-26 21:32:29,796 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ntailu.ttf
+DEBUG   2024-12-26 21:32:29,797 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\ntailu.ttf
+DEBUG   2024-12-26 21:32:29,797 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ntailub.ttf
+DEBUG   2024-12-26 21:32:29,797 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\ntailub.ttf
+DEBUG   2024-12-26 21:32:29,797 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\OCRAEXT.TTF
+DEBUG   2024-12-26 21:32:29,797 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\OCRAEXT.TTF
+DEBUG   2024-12-26 21:32:29,798 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\OLDENGL.TTF
+DEBUG   2024-12-26 21:32:29,798 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\OLDENGL.TTF
+DEBUG   2024-12-26 21:32:29,798 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ONYX.TTF
+DEBUG   2024-12-26 21:32:29,798 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\ONYX.TTF
+DEBUG   2024-12-26 21:32:29,799 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\OUTLOOK.TTF
+DEBUG   2024-12-26 21:32:29,799 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\OUTLOOK.TTF
+DEBUG   2024-12-26 21:32:29,799 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\pala.ttf
+DEBUG   2024-12-26 21:32:29,799 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\pala.ttf
+DEBUG   2024-12-26 21:32:29,800 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\palab.ttf
+DEBUG   2024-12-26 21:32:29,800 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\palab.ttf
+DEBUG   2024-12-26 21:32:29,800 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\palabi.ttf
+DEBUG   2024-12-26 21:32:29,800 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\palabi.ttf
+DEBUG   2024-12-26 21:32:29,801 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\palai.ttf
+DEBUG   2024-12-26 21:32:29,801 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\palai.ttf
+DEBUG   2024-12-26 21:32:29,801 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\PALSCRI.TTF
+DEBUG   2024-12-26 21:32:29,801 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\PALSCRI.TTF
+DEBUG   2024-12-26 21:32:29,802 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\PAPYRUS.TTF
+DEBUG   2024-12-26 21:32:29,802 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\PAPYRUS.TTF
+DEBUG   2024-12-26 21:32:29,802 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\PARCHM.TTF
+DEBUG   2024-12-26 21:32:29,802 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\PARCHM.TTF
+DEBUG   2024-12-26 21:32:29,803 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\PERBI___.TTF
+DEBUG   2024-12-26 21:32:29,803 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\PERBI___.TTF
+DEBUG   2024-12-26 21:32:29,803 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\PERB____.TTF
+DEBUG   2024-12-26 21:32:29,803 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\PERB____.TTF
+DEBUG   2024-12-26 21:32:29,804 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\PERI____.TTF
+DEBUG   2024-12-26 21:32:29,804 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\PERI____.TTF
+DEBUG   2024-12-26 21:32:29,804 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\PERTIBD.TTF
+DEBUG   2024-12-26 21:32:29,804 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\PERTIBD.TTF
+DEBUG   2024-12-26 21:32:29,804 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\PERTILI.TTF
+DEBUG   2024-12-26 21:32:29,805 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\PERTILI.TTF
+DEBUG   2024-12-26 21:32:29,805 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\PER_____.TTF
+DEBUG   2024-12-26 21:32:29,805 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\PER_____.TTF
+DEBUG   2024-12-26 21:32:29,805 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\phagspa.ttf
+DEBUG   2024-12-26 21:32:29,806 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\phagspa.ttf
+DEBUG   2024-12-26 21:32:29,806 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\phagspab.ttf
+DEBUG   2024-12-26 21:32:29,806 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\phagspab.ttf
+DEBUG   2024-12-26 21:32:29,806 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\PLAYBILL.TTF
+DEBUG   2024-12-26 21:32:29,806 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\PLAYBILL.TTF
+DEBUG   2024-12-26 21:32:29,807 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\POORICH.TTF
+DEBUG   2024-12-26 21:32:29,807 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\POORICH.TTF
+DEBUG   2024-12-26 21:32:29,807 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\PRISTINA.TTF
+DEBUG   2024-12-26 21:32:29,807 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\PRISTINA.TTF
+DEBUG   2024-12-26 21:32:29,807 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\RAGE.TTF
+DEBUG   2024-12-26 21:32:29,807 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\RAGE.TTF
+DEBUG   2024-12-26 21:32:29,808 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\RAVIE.TTF
+DEBUG   2024-12-26 21:32:29,808 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\RAVIE.TTF
+DEBUG   2024-12-26 21:32:29,808 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\REFSAN.TTF
+DEBUG   2024-12-26 21:32:29,808 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\REFSAN.TTF
+DEBUG   2024-12-26 21:32:29,808 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\REFSPCL.TTF
+DEBUG   2024-12-26 21:32:29,808 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\REFSPCL.TTF
+DEBUG   2024-12-26 21:32:29,809 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ROCCB___.TTF
+DEBUG   2024-12-26 21:32:29,809 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\ROCCB___.TTF
+DEBUG   2024-12-26 21:32:29,809 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ROCC____.TTF
+DEBUG   2024-12-26 21:32:29,809 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\ROCC____.TTF
+DEBUG   2024-12-26 21:32:29,809 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ROCK.TTF
+DEBUG   2024-12-26 21:32:29,810 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\ROCK.TTF
+DEBUG   2024-12-26 21:32:29,810 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ROCKB.TTF
+DEBUG   2024-12-26 21:32:29,810 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\ROCKB.TTF
+DEBUG   2024-12-26 21:32:29,810 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ROCKBI.TTF
+DEBUG   2024-12-26 21:32:29,810 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\ROCKBI.TTF
+DEBUG   2024-12-26 21:32:29,811 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ROCKEB.TTF
+DEBUG   2024-12-26 21:32:29,811 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\ROCKEB.TTF
+DEBUG   2024-12-26 21:32:29,811 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ROCKI.TTF
+DEBUG   2024-12-26 21:32:29,811 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\ROCKI.TTF
+DEBUG   2024-12-26 21:32:29,811 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\roman.fon
+DEBUG   2024-12-26 21:32:29,811 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\s8514fix.fon
+DEBUG   2024-12-26 21:32:29,812 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\s8514oem.fon
+DEBUG   2024-12-26 21:32:29,812 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\s8514sys.fon
+DEBUG   2024-12-26 21:32:29,812 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\SCHLBKB.TTF
+DEBUG   2024-12-26 21:32:29,812 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\SCHLBKB.TTF
+DEBUG   2024-12-26 21:32:29,812 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\SCHLBKBI.TTF
+DEBUG   2024-12-26 21:32:29,812 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\SCHLBKBI.TTF
+DEBUG   2024-12-26 21:32:29,812 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\SCHLBKI.TTF
+DEBUG   2024-12-26 21:32:29,812 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\SCHLBKI.TTF
+DEBUG   2024-12-26 21:32:29,812 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\script.fon
+DEBUG   2024-12-26 21:32:29,812 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\SCRIPTBL.TTF
+DEBUG   2024-12-26 21:32:29,812 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\SCRIPTBL.TTF
+DEBUG   2024-12-26 21:32:29,812 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\segmdl2.ttf
+DEBUG   2024-12-26 21:32:29,812 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\segmdl2.ttf
+DEBUG   2024-12-26 21:32:29,814 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\segoepr.ttf
+DEBUG   2024-12-26 21:32:29,814 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\segoepr.ttf
+DEBUG   2024-12-26 21:32:29,814 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\segoeprb.ttf
+DEBUG   2024-12-26 21:32:29,814 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\segoeprb.ttf
+DEBUG   2024-12-26 21:32:29,814 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\segoesc.ttf
+DEBUG   2024-12-26 21:32:29,814 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\segoesc.ttf
+DEBUG   2024-12-26 21:32:29,814 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\segoescb.ttf
+DEBUG   2024-12-26 21:32:29,814 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\segoescb.ttf
+DEBUG   2024-12-26 21:32:29,814 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\segoeui.ttf
+DEBUG   2024-12-26 21:32:29,814 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\segoeui.ttf
+DEBUG   2024-12-26 21:32:29,815 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\segoeuib.ttf
+DEBUG   2024-12-26 21:32:29,815 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\segoeuib.ttf
+DEBUG   2024-12-26 21:32:29,815 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\segoeuii.ttf
+DEBUG   2024-12-26 21:32:29,815 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\segoeuii.ttf
+DEBUG   2024-12-26 21:32:29,815 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\segoeuil.ttf
+DEBUG   2024-12-26 21:32:29,815 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\segoeuil.ttf
+DEBUG   2024-12-26 21:32:29,816 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\segoeuisl.ttf
+DEBUG   2024-12-26 21:32:29,816 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\segoeuisl.ttf
+DEBUG   2024-12-26 21:32:29,816 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\segoeuiz.ttf
+DEBUG   2024-12-26 21:32:29,816 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\segoeuiz.ttf
+DEBUG   2024-12-26 21:32:29,816 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\seguibl.ttf
+DEBUG   2024-12-26 21:32:29,817 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\seguibl.ttf
+DEBUG   2024-12-26 21:32:29,817 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\seguibli.ttf
+DEBUG   2024-12-26 21:32:29,817 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\seguibli.ttf
+DEBUG   2024-12-26 21:32:29,817 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\seguiemj.ttf
+DEBUG   2024-12-26 21:32:29,817 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\seguiemj.ttf
+DEBUG   2024-12-26 21:32:29,818 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\seguihis.ttf
+DEBUG   2024-12-26 21:32:29,818 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\seguihis.ttf
+DEBUG   2024-12-26 21:32:29,818 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\seguili.ttf
+DEBUG   2024-12-26 21:32:29,818 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\seguili.ttf
+DEBUG   2024-12-26 21:32:29,818 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\seguisb.ttf
+DEBUG   2024-12-26 21:32:29,818 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\seguisb.ttf
+DEBUG   2024-12-26 21:32:29,819 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\seguisbi.ttf
+DEBUG   2024-12-26 21:32:29,819 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\seguisbi.ttf
+DEBUG   2024-12-26 21:32:29,819 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\seguisli.ttf
+DEBUG   2024-12-26 21:32:29,819 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\seguisli.ttf
+DEBUG   2024-12-26 21:32:29,819 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\seguisym.ttf
+DEBUG   2024-12-26 21:32:29,820 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\seguisym.ttf
+DEBUG   2024-12-26 21:32:29,820 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\sere1255.fon
+DEBUG   2024-12-26 21:32:29,821 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\sere1256.fon
+DEBUG   2024-12-26 21:32:29,822 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\sere1257.fon
+DEBUG   2024-12-26 21:32:29,822 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\serf1255.fon
+DEBUG   2024-12-26 21:32:29,822 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\serf1256.fon
+DEBUG   2024-12-26 21:32:29,822 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\serf1257.fon
+DEBUG   2024-12-26 21:32:29,823 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\serife.fon
+DEBUG   2024-12-26 21:32:29,823 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\serifee.fon
+DEBUG   2024-12-26 21:32:29,823 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\serifeg.fon
+DEBUG   2024-12-26 21:32:29,823 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\serifer.fon
+DEBUG   2024-12-26 21:32:29,825 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\serifet.fon
+DEBUG   2024-12-26 21:32:29,825 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\seriff.fon
+DEBUG   2024-12-26 21:32:29,825 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\seriffe.fon
+DEBUG   2024-12-26 21:32:29,826 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\seriffg.fon
+DEBUG   2024-12-26 21:32:29,826 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\seriffr.fon
+DEBUG   2024-12-26 21:32:29,826 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\serifft.fon
+DEBUG   2024-12-26 21:32:29,826 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\SHOWG.TTF
+DEBUG   2024-12-26 21:32:29,826 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\SHOWG.TTF
+DEBUG   2024-12-26 21:32:29,827 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\simsun.ttc
+DEBUG   2024-12-26 21:32:29,827 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\simsun.ttc
+DEBUG   2024-12-26 21:32:29,827 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\simsunb.ttf
+DEBUG   2024-12-26 21:32:29,827 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\simsunb.ttf
+DEBUG   2024-12-26 21:32:29,828 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\Sitka.ttc
+DEBUG   2024-12-26 21:32:29,828 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\Sitka.ttc
+DEBUG   2024-12-26 21:32:29,828 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\SitkaB.ttc
+DEBUG   2024-12-26 21:32:29,828 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\SitkaB.ttc
+DEBUG   2024-12-26 21:32:29,828 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\SitkaI.ttc
+DEBUG   2024-12-26 21:32:29,828 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\SitkaI.ttc
+DEBUG   2024-12-26 21:32:29,829 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\SitkaZ.ttc
+DEBUG   2024-12-26 21:32:29,829 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\SitkaZ.ttc
+DEBUG   2024-12-26 21:32:29,829 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\smae1255.fon
+DEBUG   2024-12-26 21:32:29,829 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\smae1256.fon
+DEBUG   2024-12-26 21:32:29,830 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\smae1257.fon
+DEBUG   2024-12-26 21:32:29,830 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\smaf1255.fon
+DEBUG   2024-12-26 21:32:29,830 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\smaf1256.fon
+DEBUG   2024-12-26 21:32:29,831 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\smaf1257.fon
+DEBUG   2024-12-26 21:32:29,831 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\smalle.fon
+DEBUG   2024-12-26 21:32:29,831 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\smallee.fon
+DEBUG   2024-12-26 21:32:29,832 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\smalleg.fon
+DEBUG   2024-12-26 21:32:29,832 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\smaller.fon
+DEBUG   2024-12-26 21:32:29,832 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\smallet.fon
+DEBUG   2024-12-26 21:32:29,833 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\smallf.fon
+DEBUG   2024-12-26 21:32:29,833 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\smallfe.fon
+DEBUG   2024-12-26 21:32:29,833 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\smallfg.fon
+DEBUG   2024-12-26 21:32:29,833 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\smallfr.fon
+DEBUG   2024-12-26 21:32:29,834 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\smallft.fon
+DEBUG   2024-12-26 21:32:29,834 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\SNAP____.TTF
+DEBUG   2024-12-26 21:32:29,834 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\SNAP____.TTF
+DEBUG   2024-12-26 21:32:29,834 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ssee1255.fon
+DEBUG   2024-12-26 21:32:29,834 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ssee1256.fon
+DEBUG   2024-12-26 21:32:29,835 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ssee1257.fon
+DEBUG   2024-12-26 21:32:29,835 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ssee874.fon
+DEBUG   2024-12-26 21:32:29,835 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ssef1255.fon
+DEBUG   2024-12-26 21:32:29,836 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ssef1256.fon
+DEBUG   2024-12-26 21:32:29,836 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ssef1257.fon
+DEBUG   2024-12-26 21:32:29,836 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\ssef874.fon
+DEBUG   2024-12-26 21:32:29,836 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\sserife.fon
+DEBUG   2024-12-26 21:32:29,836 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\sserifee.fon
+DEBUG   2024-12-26 21:32:29,837 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\sserifeg.fon
+DEBUG   2024-12-26 21:32:29,838 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\sserifer.fon
+DEBUG   2024-12-26 21:32:29,838 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\sserifet.fon
+DEBUG   2024-12-26 21:32:29,838 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\sseriff.fon
+DEBUG   2024-12-26 21:32:29,839 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\sseriffe.fon
+DEBUG   2024-12-26 21:32:29,839 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\sseriffg.fon
+DEBUG   2024-12-26 21:32:29,839 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\sseriffr.fon
+DEBUG   2024-12-26 21:32:29,839 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\sserifft.fon
+DEBUG   2024-12-26 21:32:29,840 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\StaticCache.dat
+DEBUG   2024-12-26 21:32:29,840 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\STENCIL.TTF
+DEBUG   2024-12-26 21:32:29,840 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\STENCIL.TTF
+DEBUG   2024-12-26 21:32:29,840 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\svgafix.fon
+DEBUG   2024-12-26 21:32:29,840 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\svgasys.fon
+DEBUG   2024-12-26 21:32:29,840 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\sylfaen.ttf
+DEBUG   2024-12-26 21:32:29,840 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\sylfaen.ttf
+DEBUG   2024-12-26 21:32:29,841 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\symbol.ttf
+DEBUG   2024-12-26 21:32:29,841 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\symbol.ttf
+DEBUG   2024-12-26 21:32:29,841 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\tahoma.ttf
+DEBUG   2024-12-26 21:32:29,841 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\tahoma.ttf
+DEBUG   2024-12-26 21:32:29,841 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\tahomabd.ttf
+DEBUG   2024-12-26 21:32:29,842 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\tahomabd.ttf
+DEBUG   2024-12-26 21:32:29,842 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\taile.ttf
+DEBUG   2024-12-26 21:32:29,842 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\taile.ttf
+DEBUG   2024-12-26 21:32:29,842 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\taileb.ttf
+DEBUG   2024-12-26 21:32:29,842 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\taileb.ttf
+DEBUG   2024-12-26 21:32:29,842 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\TCBI____.TTF
+DEBUG   2024-12-26 21:32:29,842 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\TCBI____.TTF
+DEBUG   2024-12-26 21:32:29,843 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\TCB_____.TTF
+DEBUG   2024-12-26 21:32:29,843 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\TCB_____.TTF
+DEBUG   2024-12-26 21:32:29,843 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\TCCB____.TTF
+DEBUG   2024-12-26 21:32:29,843 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\TCCB____.TTF
+DEBUG   2024-12-26 21:32:29,844 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\TCCEB.TTF
+DEBUG   2024-12-26 21:32:29,844 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\TCCEB.TTF
+DEBUG   2024-12-26 21:32:29,844 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\TCCM____.TTF
+DEBUG   2024-12-26 21:32:29,844 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\TCCM____.TTF
+DEBUG   2024-12-26 21:32:29,844 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\TCMI____.TTF
+DEBUG   2024-12-26 21:32:29,844 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\TCMI____.TTF
+DEBUG   2024-12-26 21:32:29,845 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\TCM_____.TTF
+DEBUG   2024-12-26 21:32:29,845 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\TCM_____.TTF
+DEBUG   2024-12-26 21:32:29,845 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\TEMPSITC.TTF
+DEBUG   2024-12-26 21:32:29,845 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\TEMPSITC.TTF
+DEBUG   2024-12-26 21:32:29,845 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\times.ttf
+DEBUG   2024-12-26 21:32:29,845 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\times.ttf
+DEBUG   2024-12-26 21:32:29,846 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\timesbd.ttf
+DEBUG   2024-12-26 21:32:29,846 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\timesbd.ttf
+DEBUG   2024-12-26 21:32:29,846 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\timesbi.ttf
+DEBUG   2024-12-26 21:32:29,846 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\timesbi.ttf
+DEBUG   2024-12-26 21:32:29,846 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\timesi.ttf
+DEBUG   2024-12-26 21:32:29,846 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\timesi.ttf
+DEBUG   2024-12-26 21:32:29,847 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\trebuc.ttf
+DEBUG   2024-12-26 21:32:29,847 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\trebuc.ttf
+DEBUG   2024-12-26 21:32:29,848 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\trebucbd.ttf
+DEBUG   2024-12-26 21:32:29,848 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\trebucbd.ttf
+DEBUG   2024-12-26 21:32:29,848 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\trebucbi.ttf
+DEBUG   2024-12-26 21:32:29,848 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\trebucbi.ttf
+DEBUG   2024-12-26 21:32:29,848 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\trebucit.ttf
+DEBUG   2024-12-26 21:32:29,848 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\trebucit.ttf
+DEBUG   2024-12-26 21:32:29,849 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\verdana.ttf
+DEBUG   2024-12-26 21:32:29,849 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\verdana.ttf
+DEBUG   2024-12-26 21:32:29,849 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\verdanab.ttf
+DEBUG   2024-12-26 21:32:29,849 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\verdanab.ttf
+DEBUG   2024-12-26 21:32:29,849 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\verdanai.ttf
+DEBUG   2024-12-26 21:32:29,849 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\verdanai.ttf
+DEBUG   2024-12-26 21:32:29,849 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\verdanaz.ttf
+DEBUG   2024-12-26 21:32:29,850 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\verdanaz.ttf
+DEBUG   2024-12-26 21:32:29,850 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\vga737.fon
+DEBUG   2024-12-26 21:32:29,850 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\vga775.fon
+DEBUG   2024-12-26 21:32:29,851 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\vga850.fon
+DEBUG   2024-12-26 21:32:29,851 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\vga852.fon
+DEBUG   2024-12-26 21:32:29,851 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\vga855.fon
+DEBUG   2024-12-26 21:32:29,852 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\vga857.fon
+DEBUG   2024-12-26 21:32:29,852 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\vga860.fon
+DEBUG   2024-12-26 21:32:29,852 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\vga861.fon
+DEBUG   2024-12-26 21:32:29,853 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\vga863.fon
+DEBUG   2024-12-26 21:32:29,853 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\vga865.fon
+DEBUG   2024-12-26 21:32:29,853 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\vga866.fon
+DEBUG   2024-12-26 21:32:29,855 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\vga869.fon
+DEBUG   2024-12-26 21:32:29,855 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\vga932.fon
+DEBUG   2024-12-26 21:32:29,855 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\vga936.fon
+DEBUG   2024-12-26 21:32:29,856 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\vga949.fon
+DEBUG   2024-12-26 21:32:29,856 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\vga950.fon
+DEBUG   2024-12-26 21:32:29,856 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\vgaf1255.fon
+DEBUG   2024-12-26 21:32:29,857 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\vgaf1256.fon
+DEBUG   2024-12-26 21:32:29,857 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\vgaf1257.fon
+DEBUG   2024-12-26 21:32:29,858 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\vgaf874.fon
+DEBUG   2024-12-26 21:32:29,858 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\vgafix.fon
+DEBUG   2024-12-26 21:32:29,859 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\vgafixe.fon
+DEBUG   2024-12-26 21:32:29,859 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\vgafixg.fon
+DEBUG   2024-12-26 21:32:29,861 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\vgafixr.fon
+DEBUG   2024-12-26 21:32:29,861 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\vgafixt.fon
+DEBUG   2024-12-26 21:32:29,861 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\vgaoem.fon
+DEBUG   2024-12-26 21:32:29,862 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\vgas1255.fon
+DEBUG   2024-12-26 21:32:29,862 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\vgas1256.fon
+DEBUG   2024-12-26 21:32:29,863 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\vgas1257.fon
+DEBUG   2024-12-26 21:32:29,863 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\vgas874.fon
+DEBUG   2024-12-26 21:32:29,863 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\vgasys.fon
+DEBUG   2024-12-26 21:32:29,864 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\vgasyse.fon
+DEBUG   2024-12-26 21:32:29,864 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\vgasysg.fon
+DEBUG   2024-12-26 21:32:29,864 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\vgasysr.fon
+DEBUG   2024-12-26 21:32:29,865 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\vgasyst.fon
+DEBUG   2024-12-26 21:32:29,865 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\VINERITC.TTF
+DEBUG   2024-12-26 21:32:29,865 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\VINERITC.TTF
+DEBUG   2024-12-26 21:32:29,865 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\VIVALDII.TTF
+DEBUG   2024-12-26 21:32:29,865 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\VIVALDII.TTF
+DEBUG   2024-12-26 21:32:29,866 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\VLADIMIR.TTF
+DEBUG   2024-12-26 21:32:29,866 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\VLADIMIR.TTF
+DEBUG   2024-12-26 21:32:29,867 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\webdings.ttf
+DEBUG   2024-12-26 21:32:29,867 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\webdings.ttf
+DEBUG   2024-12-26 21:32:29,867 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\wingding.ttf
+DEBUG   2024-12-26 21:32:29,867 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\wingding.ttf
+DEBUG   2024-12-26 21:32:29,867 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\WINGDNG2.TTF
+DEBUG   2024-12-26 21:32:29,867 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\WINGDNG2.TTF
+DEBUG   2024-12-26 21:32:29,868 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\WINGDNG3.TTF
+DEBUG   2024-12-26 21:32:29,868 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\WINGDNG3.TTF
+DEBUG   2024-12-26 21:32:29,868 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\YuGothB.ttc
+DEBUG   2024-12-26 21:32:29,868 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\YuGothB.ttc
+DEBUG   2024-12-26 21:32:29,868 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\YuGothL.ttc
+DEBUG   2024-12-26 21:32:29,868 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\YuGothL.ttc
+DEBUG   2024-12-26 21:32:29,869 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\YuGothM.ttc
+DEBUG   2024-12-26 21:32:29,869 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\YuGothM.ttc
+DEBUG   2024-12-26 21:32:29,869 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile check C:\Windows\FONTS\YuGothR.ttc
+DEBUG   2024-12-26 21:32:29,869 [main] org.apache.fontbox.util.autodetect.FontFileFinder  - checkFontfile found C:\Windows\FONTS\YuGothR.ttc
+DEBUG   2024-12-26 21:32:29,968 [main] org.apache.pdfbox.pdmodel.font.FontMapperImpl  - getFont('TTF','TimesNewRomanPSMT') returns TimesNewRomanPSMT (TTF, mac: 0x0, os/2: 0x105, cid: null) C:\Windows\FONTS\times.ttf
+DEBUG   2024-12-26 21:32:29,975 [main] org.apache.pdfbox.pdmodel.font.FileSystemFontProvider  - Loaded TimesNewRomanPSMT from C:\Windows\FONTS\times.ttf
+DEBUG   2024-12-26 21:32:29,987 [main] org.apache.pdfbox.pdmodel.font.FontMapperImpl  - getFont('TTF','TimesNewRomanPS-BoldMT') returns TimesNewRomanPS-BoldMT (TTF, mac: 0x1, os/2: 0x105, cid: null) C:\Windows\FONTS\timesbd.ttf
+DEBUG   2024-12-26 21:32:29,991 [main] org.apache.pdfbox.pdmodel.font.FileSystemFontProvider  - Loaded TimesNewRomanPS-BoldMT from C:\Windows\FONTS\timesbd.ttf
+DEBUG   2024-12-26 21:32:29,998 [main] org.apache.pdfbox.pdmodel.font.FontMapperImpl  - getFont('TTF','TimesNewRomanPS-ItalicMT') returns TimesNewRomanPS-ItalicMT (TTF, mac: 0x2, os/2: 0x105, cid: null) C:\Windows\FONTS\timesi.ttf
+DEBUG   2024-12-26 21:32:30,003 [main] org.apache.pdfbox.pdmodel.font.FileSystemFontProvider  - Loaded TimesNewRomanPS-ItalicMT from C:\Windows\FONTS\timesi.ttf
+DEBUG   2024-12-26 21:32:30,008 [main] org.apache.pdfbox.pdmodel.font.FontMapperImpl  - getFont('TTF','TimesNewRomanPS-BoldItalicMT') returns TimesNewRomanPS-BoldItalicMT (TTF, mac: 0x3, os/2: 0x105, cid: null) C:\Windows\FONTS\timesbi.ttf
+DEBUG   2024-12-26 21:32:30,011 [main] org.apache.pdfbox.pdmodel.font.FileSystemFontProvider  - Loaded TimesNewRomanPS-BoldItalicMT from C:\Windows\FONTS\timesbi.ttf
+DEBUG   2024-12-26 21:32:30,017 [main] org.apache.pdfbox.pdmodel.font.FontMapperImpl  - getFont('TTF','ArialMT') returns ArialMT (TTF, mac: 0x0, os/2: 0x805, cid: null) C:\Windows\FONTS\arial.ttf
+DEBUG   2024-12-26 21:32:30,024 [main] org.apache.pdfbox.pdmodel.font.FileSystemFontProvider  - Loaded ArialMT from C:\Windows\FONTS\arial.ttf
+DEBUG   2024-12-26 21:32:30,031 [main] org.apache.pdfbox.pdmodel.font.FontMapperImpl  - getFont('TTF','Arial-BoldMT') returns Arial-BoldMT (TTF, mac: 0x1, os/2: 0x805, cid: null) C:\Windows\FONTS\arialbd.ttf
+DEBUG   2024-12-26 21:32:30,033 [main] org.apache.pdfbox.pdmodel.font.FileSystemFontProvider  - Loaded Arial-BoldMT from C:\Windows\FONTS\arialbd.ttf
+DEBUG   2024-12-26 21:32:30,039 [main] org.apache.pdfbox.pdmodel.font.FontMapperImpl  - getFont('TTF','Arial-ItalicMT') returns Arial-ItalicMT (TTF, mac: 0x2, os/2: 0x805, cid: null) C:\Windows\FONTS\ariali.ttf
+DEBUG   2024-12-26 21:32:30,045 [main] org.apache.pdfbox.pdmodel.font.FileSystemFontProvider  - Loaded Arial-ItalicMT from C:\Windows\FONTS\ariali.ttf
+DEBUG   2024-12-26 21:32:30,055 [main] org.apache.pdfbox.pdmodel.font.FontMapperImpl  - getFont('TTF','Arial-BoldItalicMT') returns Arial-BoldItalicMT (TTF, mac: 0x3, os/2: 0x805, cid: null) C:\Windows\FONTS\arialbi.ttf
+DEBUG   2024-12-26 21:32:30,061 [main] org.apache.pdfbox.pdmodel.font.FileSystemFontProvider  - Loaded Arial-BoldItalicMT from C:\Windows\FONTS\arialbi.ttf
+DEBUG   2024-12-26 21:32:30,065 [main] org.apache.pdfbox.pdmodel.font.FontMapperImpl  - getFont('TTF','CourierNewPSMT') returns CourierNewPSMT (TTF, mac: 0x0, os/2: 0x505, cid: null) C:\Windows\FONTS\cour.ttf
+DEBUG   2024-12-26 21:32:30,070 [main] org.apache.pdfbox.pdmodel.font.FileSystemFontProvider  - Loaded CourierNewPSMT from C:\Windows\FONTS\cour.ttf
+DEBUG   2024-12-26 21:32:30,075 [main] org.apache.pdfbox.pdmodel.font.FontMapperImpl  - getFont('TTF','CourierNewPS-BoldMT') returns CourierNewPS-BoldMT (TTF, mac: 0x1, os/2: 0x505, cid: null) C:\Windows\FONTS\courbd.ttf
+DEBUG   2024-12-26 21:32:30,078 [main] org.apache.pdfbox.pdmodel.font.FileSystemFontProvider  - Loaded CourierNewPS-BoldMT from C:\Windows\FONTS\courbd.ttf
+DEBUG   2024-12-26 21:32:30,079 [main] org.apache.pdfbox.pdmodel.font.FontMapperImpl  - getFont('TTF','CourierNewPS-ItalicMT') returns CourierNewPS-ItalicMT (TTF, mac: 0x2, os/2: 0x505, cid: null) C:\Windows\FONTS\couri.ttf
+DEBUG   2024-12-26 21:32:30,089 [main] org.apache.pdfbox.pdmodel.font.FileSystemFontProvider  - Loaded CourierNewPS-ItalicMT from C:\Windows\FONTS\couri.ttf
+DEBUG   2024-12-26 21:32:30,094 [main] org.apache.pdfbox.pdmodel.font.FontMapperImpl  - getFont('TTF','CourierNewPS-BoldItalicMT') returns CourierNewPS-BoldItalicMT (TTF, mac: 0x3, os/2: 0x505, cid: null) C:\Windows\FONTS\courbi.ttf
+DEBUG   2024-12-26 21:32:30,095 [main] org.apache.pdfbox.pdmodel.font.FileSystemFontProvider  - Loaded CourierNewPS-BoldItalicMT from C:\Windows\FONTS\courbi.ttf
+DEBUG   2024-12-26 21:32:30,101 [main] org.apache.pdfbox.pdmodel.font.FontMapperImpl  - getFont('TTF','SymbolMT') returns SymbolMT (TTF, mac: 0x0, os/2: 0xc03, cid: null) C:\Windows\FONTS\symbol.ttf
+DEBUG   2024-12-26 21:32:30,102 [main] org.apache.pdfbox.pdmodel.font.FileSystemFontProvider  - Loaded SymbolMT from C:\Windows\FONTS\symbol.ttf
+DEBUG   2024-12-26 21:32:30,108 [main] org.apache.pdfbox.pdmodel.font.FontMapperImpl  - getFont('TTF','MS-Gothic') returns MS-Gothic (TTF, mac: 0x0, os/2: 0x801, cid: null) C:\Windows\FONTS\msgothic.ttc
+DEBUG   2024-12-26 21:32:30,116 [main] org.apache.pdfbox.pdmodel.font.FileSystemFontProvider  - Loaded MS-Gothic from C:\Windows\FONTS\msgothic.ttc
+DEBUG   2024-12-26 21:32:31,587 [main] freemarker.cache  - Couldn't find template in cache for "html/v3-html-index.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG   2024-12-26 21:32:31,590 [main] freemarker.cache  - TemplateLoader.findTemplateSource("html/v3-html-index_en_GB.ftl"): Not found
+DEBUG   2024-12-26 21:32:31,591 [main] freemarker.cache  - TemplateLoader.findTemplateSource("html/v3-html-index_en.ftl"): Not found
+DEBUG   2024-12-26 21:32:31,591 [main] freemarker.cache  - TemplateLoader.findTemplateSource("html/v3-html-index.ftl"): Found
+DEBUG   2024-12-26 21:32:31,591 [main] freemarker.cache  - Loading template for "html/v3-html-index.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/md.1.Anwar/.m2/repository/tech/grasshopper/htmlextentreporter/1.0.1/htmlextentreporter-1.0.1.jar!/com/aventstack/extentreports/templates/html/v3-html-index.ftl"
+DEBUG   2024-12-26 21:32:31,604 [main] freemarker.cache  - Couldn't find template in cache for "commons/commons-variables.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG   2024-12-26 21:32:31,604 [main] freemarker.cache  - TemplateLoader.findTemplateSource("commons/commons-variables_en_GB.ftl"): Not found
+DEBUG   2024-12-26 21:32:31,604 [main] freemarker.cache  - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+DEBUG   2024-12-26 21:32:31,604 [main] freemarker.cache  - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+DEBUG   2024-12-26 21:32:31,604 [main] freemarker.cache  - Loading template for "commons/commons-variables.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/md.1.Anwar/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+DEBUG   2024-12-26 21:32:31,619 [main] freemarker.cache  - Couldn't find template in cache for "html/v3-html-head.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG   2024-12-26 21:32:31,621 [main] freemarker.cache  - TemplateLoader.findTemplateSource("html/v3-html-head_en_GB.ftl"): Not found
+DEBUG   2024-12-26 21:32:31,621 [main] freemarker.cache  - TemplateLoader.findTemplateSource("html/v3-html-head_en.ftl"): Not found
+DEBUG   2024-12-26 21:32:31,622 [main] freemarker.cache  - TemplateLoader.findTemplateSource("html/v3-html-head.ftl"): Found
+DEBUG   2024-12-26 21:32:31,622 [main] freemarker.cache  - Loading template for "html/v3-html-head.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/md.1.Anwar/.m2/repository/tech/grasshopper/htmlextentreporter/1.0.1/htmlextentreporter-1.0.1.jar!/com/aventstack/extentreports/templates/html/v3-html-head.ftl"
+DEBUG   2024-12-26 21:32:31,630 [main] freemarker.beans  - Key "styles" was not found on instance of com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig. Introspection information for the class is: {java.lang.Object@1eef9aef={public java.lang.String java.lang.Object.toString()=[Ljava.lang.Class;@69499c6f, public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setChartVisibleOnOpen(java.lang.Boolean)=[Ljava.lang.Class;@3451fc88, public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.enableOfflineMode(java.lang.Boolean)=[Ljava.lang.Class;@1e0294a7, public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setEnableAuthorView(java.lang.Boolean)=[Ljava.lang.Class;@3041beb3, public void com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.setTheme(com.aventstack.extentreports.reporter.configuration.Theme)=[Ljava.lang.Class;@15cee630, public java.lang.String com.aventstack.extentreports.reporter.configuration.FileReporterConfig.getEncoding()=[Ljava.lang.Class;@2e40fdbd, public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setResourceCDN(java.lang.String)=[Ljava.lang.Class;@246de37e, public java.lang.Boolean com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getOfflineMode()=[Ljava.lang.Class;@19647566, public java.lang.String com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getTestViewChartLocation()=[Ljava.lang.Class;@7b79ff1c, public java.lang.String com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getResourceCDN()=[Ljava.lang.Class;@527d48db, public java.lang.Boolean com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getEnableTestRunnerLogsView()=[Ljava.lang.Class;@194037f9, public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setEnableTestRunnerLogsView(java.lang.Boolean)=[Ljava.lang.Class;@2335aef2, public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setEnableTimeline(java.lang.Boolean)=[Ljava.lang.Class;@17003497, public boolean java.lang.Object.equals(java.lang.Object)=[Ljava.lang.Class;@2f038d3c, public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setOfflineMode(java.lang.Boolean)=[Ljava.lang.Class;@376498da, public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setEnableExceptionView(java.lang.Boolean)=[Ljava.lang.Class;@39a8e2fa, public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setEnableCategoryView(java.lang.Boolean)=[Ljava.lang.Class;@2f9addd4, public void com.aventstack.extentreports.reporter.configuration.FileReporterConfig.setEncoding(java.lang.String)=[Ljava.lang.Class;@1c43df76, public java.lang.String com.aventstack.extentreports.reporter.configuration.AbstractConfiguration.getReportName()=[Ljava.lang.Class;@ff2266c, public java.lang.String com.aventstack.extentreports.reporter.configuration.AbstractConfiguration.getTimeStampFormat()=[Ljava.lang.Class;@71b3ba5a, public java.lang.String com.aventstack.extentreports.reporter.configuration.FileReporterConfig.getDocumentTitle()=[Ljava.lang.Class;@83ebdc5, public java.lang.Boolean com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getEnableExceptionView()=[Ljava.lang.Class;@a047bdb, public java.lang.Boolean com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getEnableCategoryView()=[Ljava.lang.Class;@14dbfdb1, public com.aventstack.extentreports.reporter.configuration.Protocol com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.getProtocol()=[Ljava.lang.Class;@7856f41a, public java.lang.String com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.getJs()=[Ljava.lang.Class;@5fbae40, public com.aventstack.extentreports.config.ConfigStore com.aventstack.extentreports.reporter.configuration.AbstractConfiguration.getStore()=[Ljava.lang.Class;@2c08c787, public com.aventstack.extentreports.reporter.configuration.Theme com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.getTheme()=[Ljava.lang.Class;@67f591c2, public void com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.setTimelineEnabled(boolean)=[Ljava.lang.Class;@284c4f02, public boolean com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.isTimelineEnabled()=[Ljava.lang.Class;@709d6de5, public java.lang.Boolean com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getEnableAuthorView()=[Ljava.lang.Class;@1a43a88e, public void com.aventstack.extentreports.reporter.configuration.AbstractConfiguration.setTimeStampFormat(java.lang.String)=[Ljava.lang.Class;@51f34185, public void com.aventstack.extentreports.reporter.configuration.AbstractConfiguration.setReporter(com.aventstack.extentreports.reporter.AbstractReporter)=[Ljava.lang.Class;@1b8d20e6, public java.lang.Boolean com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getDisableToggleActionForPassedNode()=[Ljava.lang.Class;@e49437, public com.aventstack.extentreports.reporter.AbstractReporter com.aventstack.extentreports.reporter.configuration.AbstractConfiguration.getReporter()=[Ljava.lang.Class;@7645b7d, public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setTestViewChartLocation(java.lang.String)=[Ljava.lang.Class;@4c50cd7d, public native int java.lang.Object.hashCode()=[Ljava.lang.Class;@3ea84e01, public java.lang.Boolean com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getChartVisibleOnOpen()=[Ljava.lang.Class;@1a4930cf, public static com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig$ExtentHtmlReporterConfigBuilder com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.builder()=[Ljava.lang.Class;@3fd33f48, public void com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.setJs(java.lang.String)=[Ljava.lang.Class;@75a226ea, public void com.aventstack.extentreports.reporter.configuration.AbstractConfiguration.setReportName(java.lang.String)=[Ljava.lang.Class;@986b619, public void com.aventstack.extentreports.reporter.configuration.FileReporterConfig.setDocumentTitle(java.lang.String)=[Ljava.lang.Class;@5a1a20ae, public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setDisableToggleActionForPassedNode(java.lang.Boolean)=[Ljava.lang.Class;@7c956dda, public java.lang.String com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.getCss()=[Ljava.lang.Class;@186481d4, public void com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.setProtocol(com.aventstack.extentreports.reporter.configuration.Protocol)=[Ljava.lang.Class;@24eecabf, public final native java.lang.Class java.lang.Object.getClass()=[Ljava.lang.Class;@2ffa91dc, public java.lang.Boolean com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getEnableTimeline()=[Ljava.lang.Class;@78d6c244, public void com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.setCss(java.lang.String)=[Ljava.lang.Class;@448086ab}, getClass=public final native java.lang.Class java.lang.Object.getClass(), css=freemarker.ext.beans.FastPropertyDescriptor@16e907b6, getStore=public com.aventstack.extentreports.config.ConfigStore com.aventstack.extentreports.reporter.configuration.AbstractConfiguration.getStore(), getDocumentTitle=public java.lang.String com.aventstack.extentreports.reporter.configuration.FileReporterConfig.getDocumentTitle(), setProtocol=public void com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.setProtocol(com.aventstack.extentreports.reporter.configuration.Protocol), getTimeStampFormat=public java.lang.String com.aventstack.extentreports.reporter.configuration.AbstractConfiguration.getTimeStampFormat(), getReportName=public java.lang.String com.aventstack.extentreports.reporter.configuration.AbstractConfiguration.getReportName(), getEncoding=public java.lang.String com.aventstack.extentreports.reporter.configuration.FileReporterConfig.getEncoding(), protocol=freemarker.ext.beans.FastPropertyDescriptor@6de610c6, getEnableTimeline=public java.lang.Boolean com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getEnableTimeline(), getChartVisibleOnOpen=public java.lang.Boolean com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getChartVisibleOnOpen(), documentTitle=freemarker.ext.beans.FastPropertyDescriptor@23ec2bdc, isTimelineEnabled=public boolean com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.isTimelineEnabled(), enableCategoryView=freemarker.ext.beans.FastPropertyDescriptor@631944d4, setEnableTimeline=public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setEnableTimeline(java.lang.Boolean), offlineMode=freemarker.ext.beans.FastPropertyDescriptor@3d132bb6, getEnableTestRunnerLogsView=public java.lang.Boolean com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getEnableTestRunnerLogsView(), getTheme=public com.aventstack.extentreports.reporter.configuration.Theme com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.getTheme(), timelineEnabled=freemarker.ext.beans.FastPropertyDescriptor@60ae7cf2, setEnableExceptionView=public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setEnableExceptionView(java.lang.Boolean), setEnableCategoryView=public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setEnableCategoryView(java.lang.Boolean), setOfflineMode=public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setOfflineMode(java.lang.Boolean), enableOfflineMode=public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.enableOfflineMode(java.lang.Boolean), resourceCDN=freemarker.ext.beans.FastPropertyDescriptor@225e09f0, setChartVisibleOnOpen=public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setChartVisibleOnOpen(java.lang.Boolean), encoding=freemarker.ext.beans.FastPropertyDescriptor@bc8d68b, setDocumentTitle=public void com.aventstack.extentreports.reporter.configuration.FileReporterConfig.setDocumentTitle(java.lang.String), setResourceCDN=public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setResourceCDN(java.lang.String), getOfflineMode=public java.lang.Boolean com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getOfflineMode(), chartVisibleOnOpen=freemarker.ext.beans.FastPropertyDescriptor@2fa212df, getReporter=public com.aventstack.extentreports.reporter.AbstractReporter com.aventstack.extentreports.reporter.configuration.AbstractConfiguration.getReporter(), setTheme=public void com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.setTheme(com.aventstack.extentreports.reporter.configuration.Theme), enableTestRunnerLogsView=freemarker.ext.beans.FastPropertyDescriptor@3cf8a235, enableAuthorView=freemarker.ext.beans.FastPropertyDescriptor@6e3b2dd3, setTestViewChartLocation=public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setTestViewChartLocation(java.lang.String), setCss=public void com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.setCss(java.lang.String), reportName=freemarker.ext.beans.FastPropertyDescriptor@238ad211, setEncoding=public void com.aventstack.extentreports.reporter.configuration.FileReporterConfig.setEncoding(java.lang.String), testViewChartLocation=freemarker.ext.beans.FastPropertyDescriptor@1c011855, getCss=public java.lang.String com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.getCss(), js=freemarker.ext.beans.FastPropertyDescriptor@6591f8ea, getEnableAuthorView=public java.lang.Boolean com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getEnableAuthorView(), getDisableToggleActionForPassedNode=public java.lang.Boolean com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getDisableToggleActionForPassedNode(), setJs=public void com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.setJs(java.lang.String), setDisableToggleActionForPassedNode=public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setDisableToggleActionForPassedNode(java.lang.Boolean), hashCode=public native int java.lang.Object.hashCode(), builder=public static com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig$ExtentHtmlReporterConfigBuilder com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.builder(), theme=freemarker.ext.beans.FastPropertyDescriptor@5273143e, enableTimeline=freemarker.ext.beans.FastPropertyDescriptor@279c4e3b, class=freemarker.ext.beans.FastPropertyDescriptor@334b392d, setEnableTestRunnerLogsView=public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setEnableTestRunnerLogsView(java.lang.Boolean), setReportName=public void com.aventstack.extentreports.reporter.configuration.AbstractConfiguration.setReportName(java.lang.String), getResourceCDN=public java.lang.String com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getResourceCDN(), getTestViewChartLocation=public java.lang.String com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getTestViewChartLocation(), setTimelineEnabled=public void com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.setTimelineEnabled(boolean), getJs=public java.lang.String com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.getJs(), enableExceptionView=freemarker.ext.beans.FastPropertyDescriptor@59f7c106, setEnableAuthorView=public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setEnableAuthorView(java.lang.Boolean), reporter=freemarker.ext.beans.FastPropertyDescriptor@136fece2, getProtocol=public com.aventstack.extentreports.reporter.configuration.Protocol com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.getProtocol(), store=freemarker.ext.beans.FastPropertyDescriptor@56478522, timeStampFormat=freemarker.ext.beans.FastPropertyDescriptor@3caf5c96, disableToggleActionForPassedNode=freemarker.ext.beans.FastPropertyDescriptor@5b3755f4, equals=public boolean java.lang.Object.equals(java.lang.Object), toString=public java.lang.String java.lang.Object.toString(), setTimeStampFormat=public void com.aventstack.extentreports.reporter.configuration.AbstractConfiguration.setTimeStampFormat(java.lang.String), setReporter=public void com.aventstack.extentreports.reporter.configuration.AbstractConfiguration.setReporter(com.aventstack.extentreports.reporter.AbstractReporter), getEnableExceptionView=public java.lang.Boolean com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getEnableExceptionView(), getEnableCategoryView=public java.lang.Boolean com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getEnableCategoryView()}
+DEBUG   2024-12-26 21:32:31,631 [main] freemarker.cache  - Couldn't find template in cache for "html/v3-html-nav.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG   2024-12-26 21:32:31,632 [main] freemarker.cache  - TemplateLoader.findTemplateSource("html/v3-html-nav_en_GB.ftl"): Not found
+DEBUG   2024-12-26 21:32:31,632 [main] freemarker.cache  - TemplateLoader.findTemplateSource("html/v3-html-nav_en.ftl"): Not found
+DEBUG   2024-12-26 21:32:31,633 [main] freemarker.cache  - TemplateLoader.findTemplateSource("html/v3-html-nav.ftl"): Found
+DEBUG   2024-12-26 21:32:31,633 [main] freemarker.cache  - Loading template for "html/v3-html-nav.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/md.1.Anwar/.m2/repository/tech/grasshopper/htmlextentreporter/1.0.1/htmlextentreporter-1.0.1.jar!/com/aventstack/extentreports/templates/html/v3-html-nav.ftl"
+DEBUG   2024-12-26 21:32:31,638 [main] freemarker.cache  - Couldn't find template in cache for "html/test-view/v3-html-test-view.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG   2024-12-26 21:32:31,638 [main] freemarker.cache  - TemplateLoader.findTemplateSource("html/test-view/v3-html-test-view_en_GB.ftl"): Not found
+DEBUG   2024-12-26 21:32:31,638 [main] freemarker.cache  - TemplateLoader.findTemplateSource("html/test-view/v3-html-test-view_en.ftl"): Not found
+DEBUG   2024-12-26 21:32:31,638 [main] freemarker.cache  - TemplateLoader.findTemplateSource("html/test-view/v3-html-test-view.ftl"): Found
+DEBUG   2024-12-26 21:32:31,638 [main] freemarker.cache  - Loading template for "html/test-view/v3-html-test-view.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/md.1.Anwar/.m2/repository/tech/grasshopper/htmlextentreporter/1.0.1/htmlextentreporter-1.0.1.jar!/com/aventstack/extentreports/templates/html/test-view/v3-html-test-view.ftl"
+DEBUG   2024-12-26 21:32:31,653 [main] freemarker.cache  - Couldn't find template in cache for "html/test-view/v3-html-bdd.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG   2024-12-26 21:32:31,654 [main] freemarker.cache  - TemplateLoader.findTemplateSource("html/test-view/v3-html-bdd_en_GB.ftl"): Not found
+DEBUG   2024-12-26 21:32:31,654 [main] freemarker.cache  - TemplateLoader.findTemplateSource("html/test-view/v3-html-bdd_en.ftl"): Not found
+DEBUG   2024-12-26 21:32:31,655 [main] freemarker.cache  - TemplateLoader.findTemplateSource("html/test-view/v3-html-bdd.ftl"): Found
+DEBUG   2024-12-26 21:32:31,655 [main] freemarker.cache  - Loading template for "html/test-view/v3-html-bdd.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/md.1.Anwar/.m2/repository/tech/grasshopper/htmlextentreporter/1.0.1/htmlextentreporter-1.0.1.jar!/com/aventstack/extentreports/templates/html/test-view/v3-html-bdd.ftl"
+DEBUG   2024-12-26 21:32:31,680 [main] freemarker.cache  - Couldn't find template in cache for "html/test-view/v3-html-test-view-charts.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG   2024-12-26 21:32:31,680 [main] freemarker.cache  - TemplateLoader.findTemplateSource("html/test-view/v3-html-test-view-charts_en_GB.ftl"): Not found
+DEBUG   2024-12-26 21:32:31,680 [main] freemarker.cache  - TemplateLoader.findTemplateSource("html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+DEBUG   2024-12-26 21:32:31,680 [main] freemarker.cache  - TemplateLoader.findTemplateSource("html/test-view/v3-html-test-view-charts.ftl"): Found
+DEBUG   2024-12-26 21:32:31,686 [main] freemarker.cache  - Loading template for "html/test-view/v3-html-test-view-charts.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/md.1.Anwar/.m2/repository/tech/grasshopper/htmlextentreporter/1.0.1/htmlextentreporter-1.0.1.jar!/com/aventstack/extentreports/templates/html/test-view/v3-html-test-view-charts.ftl"
+DEBUG   2024-12-26 21:32:31,700 [main] freemarker.cache  - Couldn't find template in cache for "html/category-view/v3-html-category-view.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG   2024-12-26 21:32:31,700 [main] freemarker.cache  - TemplateLoader.findTemplateSource("html/category-view/v3-html-category-view_en_GB.ftl"): Not found
+DEBUG   2024-12-26 21:32:31,702 [main] freemarker.cache  - TemplateLoader.findTemplateSource("html/category-view/v3-html-category-view_en.ftl"): Not found
+DEBUG   2024-12-26 21:32:31,702 [main] freemarker.cache  - TemplateLoader.findTemplateSource("html/category-view/v3-html-category-view.ftl"): Found
+DEBUG   2024-12-26 21:32:31,702 [main] freemarker.cache  - Loading template for "html/category-view/v3-html-category-view.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/md.1.Anwar/.m2/repository/tech/grasshopper/htmlextentreporter/1.0.1/htmlextentreporter-1.0.1.jar!/com/aventstack/extentreports/templates/html/category-view/v3-html-category-view.ftl"
+DEBUG   2024-12-26 21:32:31,710 [main] freemarker.cache  - Couldn't find template in cache for "html/dashboard-view/v3-html-dashboard-view.ftl"("en_GB", UTF-8, parsed); will try to load it.
+DEBUG   2024-12-26 21:32:31,711 [main] freemarker.cache  - TemplateLoader.findTemplateSource("html/dashboard-view/v3-html-dashboard-view_en_GB.ftl"): Not found
+DEBUG   2024-12-26 21:32:31,712 [main] freemarker.cache  - TemplateLoader.findTemplateSource("html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+DEBUG   2024-12-26 21:32:31,713 [main] freemarker.cache  - TemplateLoader.findTemplateSource("html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+DEBUG   2024-12-26 21:32:31,713 [main] freemarker.cache  - Loading template for "html/dashboard-view/v3-html-dashboard-view.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/md.1.Anwar/.m2/repository/tech/grasshopper/htmlextentreporter/1.0.1/htmlextentreporter-1.0.1.jar!/com/aventstack/extentreports/templates/html/dashboard-view/v3-html-dashboard-view.ftl"
+DEBUG   2024-12-26 21:32:31,723 [main] freemarker.beans  - Key "scripts" was not found on instance of com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig. Introspection information for the class is: {java.lang.Object@1eef9aef={public java.lang.String java.lang.Object.toString()=[Ljava.lang.Class;@69499c6f, public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setChartVisibleOnOpen(java.lang.Boolean)=[Ljava.lang.Class;@3451fc88, public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.enableOfflineMode(java.lang.Boolean)=[Ljava.lang.Class;@1e0294a7, public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setEnableAuthorView(java.lang.Boolean)=[Ljava.lang.Class;@3041beb3, public void com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.setTheme(com.aventstack.extentreports.reporter.configuration.Theme)=[Ljava.lang.Class;@15cee630, public java.lang.String com.aventstack.extentreports.reporter.configuration.FileReporterConfig.getEncoding()=[Ljava.lang.Class;@2e40fdbd, public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setResourceCDN(java.lang.String)=[Ljava.lang.Class;@246de37e, public java.lang.Boolean com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getOfflineMode()=[Ljava.lang.Class;@19647566, public java.lang.String com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getTestViewChartLocation()=[Ljava.lang.Class;@7b79ff1c, public java.lang.String com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getResourceCDN()=[Ljava.lang.Class;@527d48db, public java.lang.Boolean com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getEnableTestRunnerLogsView()=[Ljava.lang.Class;@194037f9, public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setEnableTestRunnerLogsView(java.lang.Boolean)=[Ljava.lang.Class;@2335aef2, public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setEnableTimeline(java.lang.Boolean)=[Ljava.lang.Class;@17003497, public boolean java.lang.Object.equals(java.lang.Object)=[Ljava.lang.Class;@2f038d3c, public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setOfflineMode(java.lang.Boolean)=[Ljava.lang.Class;@376498da, public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setEnableExceptionView(java.lang.Boolean)=[Ljava.lang.Class;@39a8e2fa, public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setEnableCategoryView(java.lang.Boolean)=[Ljava.lang.Class;@2f9addd4, public void com.aventstack.extentreports.reporter.configuration.FileReporterConfig.setEncoding(java.lang.String)=[Ljava.lang.Class;@1c43df76, public java.lang.String com.aventstack.extentreports.reporter.configuration.AbstractConfiguration.getReportName()=[Ljava.lang.Class;@ff2266c, public java.lang.String com.aventstack.extentreports.reporter.configuration.AbstractConfiguration.getTimeStampFormat()=[Ljava.lang.Class;@71b3ba5a, public java.lang.String com.aventstack.extentreports.reporter.configuration.FileReporterConfig.getDocumentTitle()=[Ljava.lang.Class;@83ebdc5, public java.lang.Boolean com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getEnableExceptionView()=[Ljava.lang.Class;@a047bdb, public java.lang.Boolean com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getEnableCategoryView()=[Ljava.lang.Class;@14dbfdb1, public com.aventstack.extentreports.reporter.configuration.Protocol com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.getProtocol()=[Ljava.lang.Class;@7856f41a, public java.lang.String com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.getJs()=[Ljava.lang.Class;@5fbae40, public com.aventstack.extentreports.config.ConfigStore com.aventstack.extentreports.reporter.configuration.AbstractConfiguration.getStore()=[Ljava.lang.Class;@2c08c787, public com.aventstack.extentreports.reporter.configuration.Theme com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.getTheme()=[Ljava.lang.Class;@67f591c2, public void com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.setTimelineEnabled(boolean)=[Ljava.lang.Class;@284c4f02, public boolean com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.isTimelineEnabled()=[Ljava.lang.Class;@709d6de5, public java.lang.Boolean com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getEnableAuthorView()=[Ljava.lang.Class;@1a43a88e, public void com.aventstack.extentreports.reporter.configuration.AbstractConfiguration.setTimeStampFormat(java.lang.String)=[Ljava.lang.Class;@51f34185, public void com.aventstack.extentreports.reporter.configuration.AbstractConfiguration.setReporter(com.aventstack.extentreports.reporter.AbstractReporter)=[Ljava.lang.Class;@1b8d20e6, public java.lang.Boolean com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getDisableToggleActionForPassedNode()=[Ljava.lang.Class;@e49437, public com.aventstack.extentreports.reporter.AbstractReporter com.aventstack.extentreports.reporter.configuration.AbstractConfiguration.getReporter()=[Ljava.lang.Class;@7645b7d, public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setTestViewChartLocation(java.lang.String)=[Ljava.lang.Class;@4c50cd7d, public native int java.lang.Object.hashCode()=[Ljava.lang.Class;@3ea84e01, public java.lang.Boolean com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getChartVisibleOnOpen()=[Ljava.lang.Class;@1a4930cf, public static com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig$ExtentHtmlReporterConfigBuilder com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.builder()=[Ljava.lang.Class;@3fd33f48, public void com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.setJs(java.lang.String)=[Ljava.lang.Class;@75a226ea, public void com.aventstack.extentreports.reporter.configuration.AbstractConfiguration.setReportName(java.lang.String)=[Ljava.lang.Class;@986b619, public void com.aventstack.extentreports.reporter.configuration.FileReporterConfig.setDocumentTitle(java.lang.String)=[Ljava.lang.Class;@5a1a20ae, public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setDisableToggleActionForPassedNode(java.lang.Boolean)=[Ljava.lang.Class;@7c956dda, public java.lang.String com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.getCss()=[Ljava.lang.Class;@186481d4, public void com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.setProtocol(com.aventstack.extentreports.reporter.configuration.Protocol)=[Ljava.lang.Class;@24eecabf, public final native java.lang.Class java.lang.Object.getClass()=[Ljava.lang.Class;@2ffa91dc, public java.lang.Boolean com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getEnableTimeline()=[Ljava.lang.Class;@78d6c244, public void com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.setCss(java.lang.String)=[Ljava.lang.Class;@448086ab}, getClass=public final native java.lang.Class java.lang.Object.getClass(), css=freemarker.ext.beans.FastPropertyDescriptor@16e907b6, getStore=public com.aventstack.extentreports.config.ConfigStore com.aventstack.extentreports.reporter.configuration.AbstractConfiguration.getStore(), getDocumentTitle=public java.lang.String com.aventstack.extentreports.reporter.configuration.FileReporterConfig.getDocumentTitle(), setProtocol=public void com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.setProtocol(com.aventstack.extentreports.reporter.configuration.Protocol), getTimeStampFormat=public java.lang.String com.aventstack.extentreports.reporter.configuration.AbstractConfiguration.getTimeStampFormat(), getReportName=public java.lang.String com.aventstack.extentreports.reporter.configuration.AbstractConfiguration.getReportName(), getEncoding=public java.lang.String com.aventstack.extentreports.reporter.configuration.FileReporterConfig.getEncoding(), protocol=freemarker.ext.beans.FastPropertyDescriptor@6de610c6, getEnableTimeline=public java.lang.Boolean com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getEnableTimeline(), getChartVisibleOnOpen=public java.lang.Boolean com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getChartVisibleOnOpen(), documentTitle=freemarker.ext.beans.FastPropertyDescriptor@23ec2bdc, isTimelineEnabled=public boolean com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.isTimelineEnabled(), enableCategoryView=freemarker.ext.beans.FastPropertyDescriptor@631944d4, setEnableTimeline=public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setEnableTimeline(java.lang.Boolean), offlineMode=freemarker.ext.beans.FastPropertyDescriptor@3d132bb6, getEnableTestRunnerLogsView=public java.lang.Boolean com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getEnableTestRunnerLogsView(), getTheme=public com.aventstack.extentreports.reporter.configuration.Theme com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.getTheme(), timelineEnabled=freemarker.ext.beans.FastPropertyDescriptor@60ae7cf2, setEnableExceptionView=public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setEnableExceptionView(java.lang.Boolean), setEnableCategoryView=public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setEnableCategoryView(java.lang.Boolean), setOfflineMode=public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setOfflineMode(java.lang.Boolean), enableOfflineMode=public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.enableOfflineMode(java.lang.Boolean), resourceCDN=freemarker.ext.beans.FastPropertyDescriptor@225e09f0, setChartVisibleOnOpen=public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setChartVisibleOnOpen(java.lang.Boolean), encoding=freemarker.ext.beans.FastPropertyDescriptor@bc8d68b, setDocumentTitle=public void com.aventstack.extentreports.reporter.configuration.FileReporterConfig.setDocumentTitle(java.lang.String), setResourceCDN=public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setResourceCDN(java.lang.String), getOfflineMode=public java.lang.Boolean com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getOfflineMode(), chartVisibleOnOpen=freemarker.ext.beans.FastPropertyDescriptor@2fa212df, getReporter=public com.aventstack.extentreports.reporter.AbstractReporter com.aventstack.extentreports.reporter.configuration.AbstractConfiguration.getReporter(), setTheme=public void com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.setTheme(com.aventstack.extentreports.reporter.configuration.Theme), enableTestRunnerLogsView=freemarker.ext.beans.FastPropertyDescriptor@3cf8a235, enableAuthorView=freemarker.ext.beans.FastPropertyDescriptor@6e3b2dd3, setTestViewChartLocation=public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setTestViewChartLocation(java.lang.String), setCss=public void com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.setCss(java.lang.String), reportName=freemarker.ext.beans.FastPropertyDescriptor@238ad211, setEncoding=public void com.aventstack.extentreports.reporter.configuration.FileReporterConfig.setEncoding(java.lang.String), testViewChartLocation=freemarker.ext.beans.FastPropertyDescriptor@1c011855, getCss=public java.lang.String com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.getCss(), js=freemarker.ext.beans.FastPropertyDescriptor@6591f8ea, getEnableAuthorView=public java.lang.Boolean com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getEnableAuthorView(), getDisableToggleActionForPassedNode=public java.lang.Boolean com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getDisableToggleActionForPassedNode(), setJs=public void com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.setJs(java.lang.String), setDisableToggleActionForPassedNode=public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setDisableToggleActionForPassedNode(java.lang.Boolean), hashCode=public native int java.lang.Object.hashCode(), builder=public static com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig$ExtentHtmlReporterConfigBuilder com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.builder(), theme=freemarker.ext.beans.FastPropertyDescriptor@5273143e, enableTimeline=freemarker.ext.beans.FastPropertyDescriptor@279c4e3b, class=freemarker.ext.beans.FastPropertyDescriptor@334b392d, setEnableTestRunnerLogsView=public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setEnableTestRunnerLogsView(java.lang.Boolean), setReportName=public void com.aventstack.extentreports.reporter.configuration.AbstractConfiguration.setReportName(java.lang.String), getResourceCDN=public java.lang.String com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getResourceCDN(), getTestViewChartLocation=public java.lang.String com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getTestViewChartLocation(), setTimelineEnabled=public void com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.setTimelineEnabled(boolean), getJs=public java.lang.String com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.getJs(), enableExceptionView=freemarker.ext.beans.FastPropertyDescriptor@59f7c106, setEnableAuthorView=public void com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.setEnableAuthorView(java.lang.Boolean), reporter=freemarker.ext.beans.FastPropertyDescriptor@136fece2, getProtocol=public com.aventstack.extentreports.reporter.configuration.Protocol com.aventstack.extentreports.reporter.configuration.InteractiveReporterConfig.getProtocol(), store=freemarker.ext.beans.FastPropertyDescriptor@56478522, timeStampFormat=freemarker.ext.beans.FastPropertyDescriptor@3caf5c96, disableToggleActionForPassedNode=freemarker.ext.beans.FastPropertyDescriptor@5b3755f4, equals=public boolean java.lang.Object.equals(java.lang.Object), toString=public java.lang.String java.lang.Object.toString(), setTimeStampFormat=public void com.aventstack.extentreports.reporter.configuration.AbstractConfiguration.setTimeStampFormat(java.lang.String), setReporter=public void com.aventstack.extentreports.reporter.configuration.AbstractConfiguration.setReporter(com.aventstack.extentreports.reporter.AbstractReporter), getEnableExceptionView=public java.lang.Boolean com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getEnableExceptionView(), getEnableCategoryView=public java.lang.Boolean com.aventstack.extentreports.reporter.configuration.ExtentHtmlReporterConfig.getEnableCategoryView()}
